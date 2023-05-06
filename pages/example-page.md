@@ -1,5 +1,6 @@
 ---
-title:  "Example Post!"
+# layout not required it will default to ... default
+title:  "Example Page!"
 permalink: /pages/example # OPTIONAL (Defaults to file path minus .md)
 ---
 
