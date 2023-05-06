@@ -1,3 +1,8 @@
+---
+title:  "Our Very First Update!"
+permalink: /update111
+---
+
 ## Neox Developer Blog - 05/05/23
 
 "Onec at posuere tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris urna risus, hendrerit non tristique eget, tincidunt sit amet quam. Duis dapibus mi quis augue mattis cursus. Sed varius, orci quis malesuada egestas, leo purus aliquet ligula, vitae maximus ipsum est vitae nisl. Suspendisse sagittis feugiat fringilla. Maecenas dictum orci at augue pretium ullamcorper. Mauris dolor magna, porttitor eu ullamcorper sollicitudin, imperdiet et odio. Aliquam erat volutpat. Nam non tincidunt arcu. Etiam feugiat ornare ante non semper. Fusce felis quam, faucibus a varius et, pharetra at justo. Ut ullamcorper, diam ac pharetra accumsan, eros libero consequat neque, ac pulvinar metus est vel lorem. Vestibulum sit amet augue ligula. Donec id sapien est.
