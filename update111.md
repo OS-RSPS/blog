@@ -43,6 +43,7 @@ Donec at posuere tortor. Class aptent taciti sociosqu ad litora torquent per con
 
 Quisque ut sem varius, posuere mi sit amet, convallis erat. Vestibulum pulvinar lorem quis accumsan gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel velit pretium, porta lorem vitae, sagittis enim. Etiam aliquet non leo ac hendrerit. Phasellus faucibus lacinia nunc eget molestie. Sed augue velit, suscipit at metus nec, eleifend vehicula diam. Donec tincidunt metus id aliquet feugiat. Sed condimentum blandit nulla, eu ultrices erat facilisis eu. Nam volutpat venenatis mi, id tristique justo congue vel.
 <br>
+<br>
 **Harry Potter Castle Replicant**
 >A new central hub for PVPers and skillers alike.
 
@@ -61,6 +62,7 @@ Aenean hendrerit scelerisque leo, vel ultricies justo accumsan at. Cras elit urn
     * Pellentesque habitant morbi tristique senectus
 
 Ut dignissim eleifend semper. Morbi scelerisque nunc eget dolor facilisis dictum. Morbi interdum varius augue ut accumsan. Sed fringilla urna in sapien consequat, non ullamcorper metus cursus. Nulla varius, est et scelerisque posuere, augue leo vulputate ipsum, ultricies mollis ex mauris vel nibh. Nullam condimentum laoreet ipsum. Aliquam erat volutpat.
+<br>
 <br>
 **Woah, Big Bad Dragon**
 >KBD, step aside, there is a new big bad in town.
