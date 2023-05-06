@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Neox Blog Index"
 ---
 
