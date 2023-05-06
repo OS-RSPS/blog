@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 
+/* ^^ Add the following content to the top of the file, exactly as shown ^^ */
 
 body {
-    background: red;
+    background: red !important;
 }
