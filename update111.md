@@ -1,6 +1,6 @@
 ---
 title:  "Our Very First Update!"
-permalink: /update111
+permalink: /developer-blog-050523
 ---
 
 ## Neox Developer Blog - 05/05/23
