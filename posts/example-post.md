@@ -10,3 +10,5 @@ permalink: /posts/example # OPTIONAL (Defaults to file path minus .md)
 _example text_
 
 **woot**
+
+<span style="color:green">some *green* text</span>
