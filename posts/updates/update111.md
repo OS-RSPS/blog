@@ -14,6 +14,25 @@ Hold on I dont use this UI of intellij gotta find it
 
 KK "Commit" is what you want CTRL K
 
+Ok so that's how you push an update live.
+
+First you do "Commit" to basically stage the update
+Then usually if that goes well it'll push for you if you push "Commit and push"
+But if you forget to push or push fails you'll have to manually push the commit with that little green arrow on top right
+
+Before you ever push though, do an Update first update is blue arrow
+
+So now any time you edit this file and ready to go live...
+Update (Blue arrow)
+Commit & Push (Green check)
+If you forget to push or push fails for whatever reason (it will only fail if you forget to update first) ask me and ill fix
+Alright, sounds good, man! Thanks. I'm goign to experiment around with this a bit later.
+I'm a bit confused on how to generate a new
+
+
+Hold on real quick ill show you
+
+
 "Onec at posuere tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris urna risus, hendrerit non tristique eget, tincidunt sit amet quam. Duis dapibus mi quis augue mattis cursus. Sed varius, orci quis malesuada egestas, leo purus aliquet ligula, vitae maximus ipsum est vitae nisl. Suspendisse sagittis feugiat fringilla. Maecenas dictum orci at augue pretium ullamcorper. Mauris dolor magna, porttitor eu ullamcorper sollicitudin, imperdiet et odio. Aliquam erat volutpat. Nam non tincidunt arcu. Etiam feugiat ornare ante non semper. Fusce felis quam, faucibus a varius et, pharetra at justo. Ut ullamcorper, diam ac pharetra accumsan, eros libero consequat neque, ac pulvinar metus est vel lorem. Vestibulum sit amet augue ligula. Donec id sapien est.
 
 Quisque ut sem varius, posuere mi sit amet, convallis erat. Vestibulum pulvinar lorem quis accumsan gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel velit pretium, porta lorem vitae, sagittis enim. Etiam aliquet non leo ac hendrerit. Phasellus faucibus lacinia nunc eget molestie. Sed augue velit, suscipit at metus nec, eleifend vehicula diam. Donec tincidunt metus id aliquet feugiat. Sed condimentum blandit nulla, eu ultrices erat facilisis eu. Nam volutpat venenatis mi, id tristique justo congue vel."
