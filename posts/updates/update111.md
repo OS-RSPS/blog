@@ -6,6 +6,14 @@ permalink: /updates/elxa-test
 
 ## Neox Developer Blog - 05/05/23
 
+Okay so when you update the file and want it to go live...
+Are you watching? Yes, man, all eyes on you.
+
+So when you are done updating the file do this kk
+Hold on I dont use this UI of intellij gotta find it
+
+KK "Commit" is what you want CTRL K
+
 "Onec at posuere tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris urna risus, hendrerit non tristique eget, tincidunt sit amet quam. Duis dapibus mi quis augue mattis cursus. Sed varius, orci quis malesuada egestas, leo purus aliquet ligula, vitae maximus ipsum est vitae nisl. Suspendisse sagittis feugiat fringilla. Maecenas dictum orci at augue pretium ullamcorper. Mauris dolor magna, porttitor eu ullamcorper sollicitudin, imperdiet et odio. Aliquam erat volutpat. Nam non tincidunt arcu. Etiam feugiat ornare ante non semper. Fusce felis quam, faucibus a varius et, pharetra at justo. Ut ullamcorper, diam ac pharetra accumsan, eros libero consequat neque, ac pulvinar metus est vel lorem. Vestibulum sit amet augue ligula. Donec id sapien est.
 
 Quisque ut sem varius, posuere mi sit amet, convallis erat. Vestibulum pulvinar lorem quis accumsan gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel velit pretium, porta lorem vitae, sagittis enim. Etiam aliquet non leo ac hendrerit. Phasellus faucibus lacinia nunc eget molestie. Sed augue velit, suscipit at metus nec, eleifend vehicula diam. Donec tincidunt metus id aliquet feugiat. Sed condimentum blandit nulla, eu ultrices erat facilisis eu. Nam volutpat venenatis mi, id tristique justo congue vel."
