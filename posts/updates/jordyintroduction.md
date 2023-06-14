@@ -3,6 +3,7 @@ layout: post
 title:  "Meet Jordy!"
 permalink: /updates/meet-jordy
 ---
+
 # Meet Jordy: The Code-Wielding, Monkey-Token Trading, Mexican Food Devouring, Vegas-Loving Dynamo!
 
 
