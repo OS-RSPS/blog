@@ -10,6 +10,7 @@ permalink: /posts/example # OPTIONAL (Defaults to file path minus .md)
 _example text_
 
 here's anothe new page... let's push it real quick lmao
+Dope, seems simple enough! So only need to blue is I'm making an edit to a pre-existing page?
 
 **woot**
 
