@@ -1,7 +1,7 @@
 #Site settings
 title: Neox Blog
 description: All external communication from Neox Team will be posted here.
-mode: light # default theme "dark" | "light"
+mode: dark # default theme "dark" | "light"
 lang: en-US # default lang
 branding:
   name: Neox
