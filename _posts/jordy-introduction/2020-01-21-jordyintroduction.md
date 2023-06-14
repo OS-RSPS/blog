@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "Meet Jordy!"
-permalink: /updates/meet-jordy
+title: Meet Jordy!
+date: 2020-01-21 11:58:47 +07:00
+modified: 2020-02-02 16:49:47 +07:00
+tags: [game-update]
+description: Description of the page post
 ---
+
 
 # Meet Jordy: The Code-Wielding, Monkey-Token Trading, Mexican Food Devouring, Vegas-Loving Dynamo!
 

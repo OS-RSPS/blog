@@ -1,10 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-/* ^^ Add the following content to the top of the file, exactly as shown ^^ */
-
-body { // this was just a test/example (feel free to remove)
-    //background: red !important;
-}
+@import "main";

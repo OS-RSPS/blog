@@ -1,7 +1,3 @@
 ---
-title:  "Neox Blog Index"
+layout: home
 ---
-
-# test 1 !
-
-abc???

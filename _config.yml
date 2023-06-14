@@ -1,11 +1,69 @@
-baseurl: ""
+#Site settings
+title: Neox Blog
+description: All external communication from Neox Team will be posted here.
+mode: light # default theme "dark" | "light"
+lang: en-US # default lang
+branding:
+  name: Neox
+  summary: Welcome to the official Neox blog! We're dedicated to providing the community with the latest news, updates, and developer insight; stay tuned, because exciting things are happening behind the scenes and we can't wait to share them with you!
+  logo: /assets/img/logo.png
+
+# URL settings
+baseurl:
 url: "https://blog.neox.ps"
+permalink: /:title/
 
-remote_theme: pages-themes/minimal@v0.2.0 # pages-themes/midnight@v0.2.0
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - neox-*.gem
+  - neox.gemspec
+
+# Plugins
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: The title of your site
-description: A short description of your site's purpose
-
-markdown: GFM
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles

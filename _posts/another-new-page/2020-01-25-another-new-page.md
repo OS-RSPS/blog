@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Example Post!"
-date: 2023-04-20 12:01:00 # Not sure where this is actually used (If not this exact format site won't build!)
-permalink: /posts/example # OPTIONAL (Defaults to file path minus .md)
+title: Another New Page
+date: 2020-01-25 11:58:47 +07:00
+modified: 2020-02-02 16:49:47 +07:00
+tags: [another-tag]
+description: Description of the page post
 ---
+
 
 # Example Header
 
