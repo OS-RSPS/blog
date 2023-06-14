@@ -49,16 +49,29 @@ credits his superhuman coding prowess to these magical cans of liquid energy.
 
 [![IMAGE ALT TEXT](https://i.imgur.com/6psFFcD.png)](https://www.youtube.com/watch?v=dVZD3Q7VHAk "Embedded Video")
 
+<iframe width="500" height="250" src="https://www.youtube.com/watch?v=dVZD3Q7VHAk" frameborder="0" allowfullscreen></iframe>
+
 You can find Jordy surrounded by empty Celsius cans, each one a testament to his commitment to his craft. 
 From dawn till dusk, he's chugging those energy drinks like there's no tomorrow. Rumor has it that he once 
 coded an entire game in a single, caffeine-fueled night. It's safe to say that Jordy and Celsius have formed 
 an inseparable alliance, and they're turning lines of code into works of art, one sip at a time.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/dVZD3Q7VHAk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 
 ## Mexican Food: Jordy's Culinary Oasis
 
 When Jordy isn't busy crafting virtual realms or trading monkey tokens, you can bet your bottom dollar 
 that he's indulging in his other obsession: Mexican food. From sizzling street tacos to mouthwatering 
 enchiladas, Jordy is a self-proclaimed connoisseur of all things spicy, cheesy, and oh-so-delicious.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dVZD3Q7VHAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 He has a profound appreciation for the rich flavors, vibrant colors, and fiery heat that Mexican cuisine
 brings to the table. You can often find
