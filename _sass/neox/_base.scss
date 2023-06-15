@@ -393,3 +393,123 @@
       left: 10px;
     }
   }
+
+.changes-body {
+  flex-grow: 1;
+}
+
+.changes-body .changes-row {
+  margin-bottom: 2rem;
+}
+
+.changes-body .changes-row.features .changes-row-header {
+  background: linear-gradient(to right,rgba(93,114,57,.4),rgba(93,114,57,0));
+  color: #8ec62f;
+}
+
+.changes-body .changes-row.fixed .changes-row-header {
+  background: linear-gradient(to right,rgba(80,147,197,.4),rgba(80,147,197,0));
+  color: #65b6ed;
+}
+
+.changes-body .changes-row.improvements .changes-row-header {
+  background: linear-gradient(to right,rgba(215,170,12,.4),rgba(215,170,12,0));
+  color: #f5d254;
+}
+
+.changes-body .changes-row.known-issues .changes-row-header {
+  background: linear-gradient(to right,rgba(215,132,34,.4),rgba(215,132,34,0));
+  color: #e9b476;
+}
+
+.changes-body .changes-row.removed .changes-row-header {
+  background: linear-gradient(to right,rgba(199,42,42,.4),rgba(199,42,42,0));
+  color: #e27575;
+}
+
+.changes-body .changes-row:last-of-type {
+  margin-bottom: 0;
+}
+
+.changes-body .changes-row .changes-row-header {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  padding: 0rem 0.5rem;
+  margin: 0;
+}
+
+.changes-body .changes-row .changes-row-header .icon {
+  color: inherit;
+  margin-right: .5rem;
+  font-size: 21px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.changes-body .changes-row .changes-row-header h3 {
+  color: inherit;
+  padding: 0;
+  margin: 2px 0 0 0;
+  font-size: 21px;
+}
+
+.changes-body .changes-row .changes-row-body ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.changes-body .changes-row .changes-row-body ul li {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(0,0,0,.1);
+  padding: .5rem 1.5rem;
+}
+
+.changes-body .changes-row .changes-row-body ul li:nth-of-type(even) {
+  background-color: rgba(228,218,209,.05);
+}
+
+.changes-body .changes-row .changes-row-body ul li span {
+  margin-right: .75rem;
+}
+
+.changes-body h3 {
+  color: inherit;
+  padding: 0;
+  margin: 2px 0 0 0;
+  font-size: 21px;
+  border:none !important;
+}
+
+.spacer-small {
+  padding: 5px;
+}
+
+.spacer-medium {
+  padding: 10px;
+}
+
+.spacer-large {
+  padding: 25px;
+}
+
+details > summary {
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.spoiler-icon {
+  font-size: 20px;
+  color: #659b1e;
+  position: absolute;
+}
+
+.spoiler-text {
+  margin-left: 28px;
+}
