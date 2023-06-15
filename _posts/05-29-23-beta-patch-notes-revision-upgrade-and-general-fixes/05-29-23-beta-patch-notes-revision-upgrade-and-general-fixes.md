@@ -1,7 +1,6 @@
 ---
 title: 05/29/23 | Beta Patch Notes - Revision Upgrade and General Fixes
 date: 2023-05-29 11:58:47 +07:00
-modified: 2023-05-29 16:49:47 +07:00
 tags: [beta, patch, notes, 05/29/23]
 description: Neox updates from 05/29/23.
 ---

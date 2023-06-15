@@ -1,7 +1,6 @@
 ---
 title: 06/06/23 | Beta Patch Notes - New Teleport Interface and Miscellaneous Fixes
 date: 2023-06-06 11:58:47 +07:00
-modified: 2023-06-06 16:49:47 +07:00
 tags: [beta, patch, notes, 06/06/23]
 description: Neox updates from 06/06/23.
 ---

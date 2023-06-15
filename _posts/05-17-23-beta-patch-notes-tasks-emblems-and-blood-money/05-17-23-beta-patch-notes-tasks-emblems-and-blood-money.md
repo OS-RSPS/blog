@@ -1,7 +1,6 @@
 ---
 title: 05/17/23 | Beta Patch Notes - Tasks, Emblems, and Blood Money
 date: 2023-05-17 11:58:47 +07:00
-modified: 2023-05-17 16:49:47 +07:00
 tags: [beta, patch, notes, 05/17/23]
 description: Neox updates from 05/17/23.
 ---
