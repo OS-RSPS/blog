@@ -7,6 +7,7 @@ branding:
   name: Neox
   summary: Welcome to the official Neox blog! We're dedicated to providing the community with the latest news, updates, and developer insight; stay tuned, because exciting things are happening behind the scenes and we can't wait to share them with you!
   logo: /assets/img/logo.png
+encoding: utf-8
 
 # URL settings
 baseurl:
