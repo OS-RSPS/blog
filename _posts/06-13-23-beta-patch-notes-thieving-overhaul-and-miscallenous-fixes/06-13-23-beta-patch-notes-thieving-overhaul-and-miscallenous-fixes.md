@@ -120,7 +120,7 @@ Beyond making very rudimentary changes to the skill's behavior, we've also added
 
 ## Auto-Thieving
 
-<img src="/images/thieving.gif">
+<img src="/assets/img/updates/061323/thieving.gif">
 
 With the new design, thieving will be significantly less **attention demanding** in the sense that players will be able to click on their target and continue auto-thieving and generate profit without having to pay much attention. Though this might seem entirely AFK, we didn't want to completely remove involvement and the following actions will cause a player to cease auto-thieving:
 
@@ -132,11 +132,11 @@ In time, we might have to adjust some of these elements accordingly, however we'
 
 ## Thieving Rewards
 
-<img src="/images/lootingbags.gif"> <img src="/images/bagsofrichesloot.png">
+<img src="/assets/img/updates/061323/lootingbags.gif"> <img src="/assets/img/updates/061323/bagsofrichesloot.png">
 
 Thieving rewards themselves have undergone some relatively drastic changes, but ones we hope will be for the better. Besides now compacting the cash reward into a stackable unique item referred to as a "bag of riches", players will also be able to receive items from their original looting tables at the same time. These bags will include a ranged cash pile depending on the tier of bag opened alongside a random gem; to add to this, it's even possible to get an onyx from the highest tier of bag!
 
-<img src="/images/thiefachievement.gif">
+<img src="/assets/img/updates/061323/thiefachievement.gif">
 
 Besides modifying the thieving loot, we've also implemented a way in which players can obtain the <a href="[url](https://oldschool.runescape.wiki/w/Gloves_of_silence)">Gloves of Silence</a>, which will give a player an increased chance to successfully pickpocket; contrary to their original 62 failed pickpocket limit, we've completely removed the limit and players will be able to wear them for as long as they wish.
 
