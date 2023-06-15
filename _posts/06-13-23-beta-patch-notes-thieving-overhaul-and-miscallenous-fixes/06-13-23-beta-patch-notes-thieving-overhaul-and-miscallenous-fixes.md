@@ -1,6 +1,6 @@
 ---
 title: 06/13/23 | Beta Patch Notes - Thieving Overhaul and Miscellaneous Fixes
-date: 2023-06-13 11:58:47 +07:00
+date: 2023-06-13
 tags: [beta, patch-notes]
 description: Neox updates from 06/13/23.
 ---
