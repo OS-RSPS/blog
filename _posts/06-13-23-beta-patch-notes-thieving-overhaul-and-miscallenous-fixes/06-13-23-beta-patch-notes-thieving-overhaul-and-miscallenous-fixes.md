@@ -109,4 +109,42 @@ description: Neox updates from 06/13/23.
 - Removed ladder that sent player to void area in Sophanem.
 
 <div class="spacer-medium"></div>
-<br><br>
+
+***
+
+<h1 style="color:#885eac;">Thieving Overhaul - Expanded</h1>
+
+
+Simply put, thieving, much like several other skills on the way to a maxed account, is not a fun skill. It's unapologetically click intensive, requires a ton of observation and player involvement, and the rewards have always been relatively miniscule if not outright worthless. With the changes we've made this patch, we wanted to giving thieving a bit more of a unique identity as well as removing some of the tedium involved in leveling it up. 
+
+Beyond making very rudimentary changes to the skill's behavior, we've also added unique incentives and achievements based around improving the *quality of life* of the skill as well as giving it a bit more of a unique identity. Below, we'll sort of outline out train of thought going into each approach.
+
+## Auto-Thieving
+
+<img src="images/thieving.gif">
+
+With the new design, thieving will be significantly less **attention demanding** in the sense that players will be able to click on their target and continue auto-thieving and generate profit without having to pay much attention. Though this might seem entirely AFK, we didn't want to completely remove involvement and the following actions will cause a player to cease auto-thieving:
+
+  • The player is detected by the NPC they are thieving and stunned.<br>
+  • The player is forced into the AFK state by Runelite's internal timer.<br>
+  • If the player clicks to perform another action.<br>
+
+In time, we might have to adjust some of these elements accordingly, however we're hoping the new system will be an improvement from the traditional thieving experience.
+
+## Thieving Rewards
+
+<img src="images/lootingbags.gif"> <img src="images/bagsofrichesloot.png">
+
+Thieving rewards themselves have undergone some relatively drastic changes, but ones we hope will be for the better. Besides now compacting the cash reward into a stackable unique item referred to as a "bag of riches", players will also be able to receive items from their original looting tables at the same time. These bags will include a ranged cash pile depending on the tier of bag opened alongside a random gem; to add to this, it's even possible to get an onyx from the highest tier of bag!
+
+<img src="images/thiefachievement.gif">
+
+Besides modifying the thieving loot, we've also implemented a way in which players can obtain the <a href="[url](https://oldschool.runescape.wiki/w/Gloves_of_silence)">Gloves of Silence</a>, which will give a player an increased chance to successfully pickpocket; contrary to their original 62 failed pickpocket limit, we've completely removed the limit and players will be able to wear them for as long as they wish.
+
+That's it from us for now! Thanks for taking the time to read everything, for those that have, and we'll see you in the next patch.
+
+
+
+
+
+
