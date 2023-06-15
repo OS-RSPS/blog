@@ -1,7 +1,7 @@
 ---
 title: 06/10/23 | Beta Patch Notes - Our New Home
 date: 2023-06-10 11:58:47 +07:00
-tags: [beta, patch, notes, 06/10/23]
+tags: [beta, patch-notes]
 description: Neox updates from 06/10/23.
 ---
 

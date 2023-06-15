@@ -1,7 +1,7 @@
 ---
 title: 05/23/23 | Beta Patch Notes - Kandarin and Coal Trucks
 date: 2023-05-23 11:58:47 +07:00
-tags: [beta, patch, notes, 05/23/23]
+tags: [beta, patch-notes]
 description: Neox updates from 05/23/23.
 ---
 

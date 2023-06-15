@@ -1,7 +1,7 @@
 ---
 title: 05/18/23 | Beta Patch Notes - Adjustments and Website Stuff
 date: 2023-05-18 11:58:47 +07:00
-tags: [beta, patch, notes, 05/18/23]
+tags: [beta, patch-notes]
 description: Neox updates from 05/18/23.
 ---
 

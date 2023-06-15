@@ -1,7 +1,7 @@
 ---
 title: 05/16/23 | Beta Patch Notes - A Beginning
 date: 2023-05-16 11:58:47 +07:00
-tags: [beta, patch, notes, 05/26/23]
+tags: [beta, patch-notes]
 description: Neox updates from 05/16/23.
 ---
 

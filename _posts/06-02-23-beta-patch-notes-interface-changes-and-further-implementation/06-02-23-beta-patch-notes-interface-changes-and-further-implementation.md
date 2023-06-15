@@ -1,7 +1,7 @@
 ---
 title: 06/02/23 | Beta Patch Notes - Interface Changes and Further Implementation
 date: 2023-06-02 11:58:47 +07:00
-tags: [beta, patch, notes, 06/02/23]
+tags: [beta, patch-notes]
 description: Neox updates from 06/02/23.
 ---
 

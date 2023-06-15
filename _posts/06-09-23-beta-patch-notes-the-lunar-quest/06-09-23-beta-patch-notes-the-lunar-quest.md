@@ -1,7 +1,7 @@
 ---
 title: 06/09/23 | Beta Patch Notes - The Lunar Quest
 date: 2023-06-09 11:58:47 +07:00
-tags: [beta, patch, notes, 06/09/23]
+tags: [beta, patch-notes]
 description: Neox updates from 06/09/23.
 ---
 
