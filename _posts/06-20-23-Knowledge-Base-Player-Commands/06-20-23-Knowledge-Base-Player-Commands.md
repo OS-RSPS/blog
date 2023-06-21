@@ -61,6 +61,9 @@ Neox Staff
 ><div class="command-title">::rules</div>
 >>Will forward the user to the official Neox rules. This will involve opening a browser tab and forwarding the rules page URL.<br>
 <div class="spacer-small"></div>
+><div class="command-title">::support</div>
+>>Will forward the user to the Neox support guidelines. This will involve opening a browser tab and forwarding the support guidelines page URL.<br>
+<div class="spacer-small"></div>
 ><div class="command-title">::hs, highscores</div>
 >>Will forward the user to the official Neox highscores. This will involve opening a browser tab and forwarding the highscores page URL.<br>
 <div class="spacer-small"></div>
