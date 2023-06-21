@@ -270,7 +270,7 @@
   blockquote {
     color: $gray;
     font-style: italic;
-    text-align: center;
+    border-left: 10px solid #ccc;
     opacity: 0.9;
     border-top: 1px solid $light;
     border-bottom: 1px solid $light;
@@ -427,6 +427,11 @@
   color: #e27575;
 }
 
+.changes-body .changes-row.articletitle .changes-row-header {
+  background: linear-gradient(to right,rgba(120,94,172,.4),rgba(199,42,42,0));
+  color: #885eac;
+}
+
 .changes-body .changes-row:last-of-type {
   margin-bottom: 0;
 }
@@ -474,6 +479,13 @@
 
 .changes-body .changes-row .changes-row-body ul li span {
   margin-right: .75rem;
+}
+
+.command-title {
+  font-style: normal;
+  font-weight: bold;
+  color: #885eac;
+  padding-bottom: 6px;
 }
 
 .changes-body h3 {
