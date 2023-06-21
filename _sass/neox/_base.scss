@@ -525,3 +525,21 @@ details > summary::-webkit-details-marker {
 .spoiler-text {
   margin-left: 28px;
 }
+
+//Divider CSS
+.divider {
+	position: relative;
+	margin-top: 10px;
+	height: 1px;
+}
+
+.div-transparent:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 5%;
+	right: 5%;
+	width: 90%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #885eac47, transparent);
+}

@@ -26,7 +26,7 @@ Neox Staff
     <div class="changes-body changes-row articletitle">
         <div class="changes-row-header">
             <span class="icon">
-                <span class="material-symbols-outlined">arrow_circle_up</span>
+                <span class="material-symbols-outlined">announcement</span>
             </span>
             <h3>Player Commands List</h3>
         </div>
