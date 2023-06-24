@@ -2,6 +2,11 @@
   url: /
   external: false
 
-- title: Archive
-  url: /archive/
+- title: Updates
+  url: /updates/
+  external: false
+
+
+- title: Knowledge Base
+  url: /knowledge-base/
   external: false

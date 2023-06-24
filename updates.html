@@ -1,6 +1,6 @@
 ---
-title: Archive
-permalink: /archive/
+title: Updates
+permalink: /updates/
 layout: page
 excerpt: All post.
 comments: false
@@ -25,11 +25,14 @@ comments: false
         <h2>{{ month.name }}</h2>
   
           {% for post in month.items %}
-          <article class="post-item">
-            <h3 class="post-item-title">
-              <a href="{{ post.url }}">{{ post.title | escape }}</a>
-            </h3> 
-          </article>
+            {% if post.tags contains 'knowledge base' %}
+            {% else %}
+              <article class="post-item">
+                <h3 class="post-item-title">
+                  <a href="{{ post.url }}">{{ post.title | escape }}</a>
+                </h3> 
+              </article>
+            {% endif %}
           {% endfor %}
     
       {% endfor %}
