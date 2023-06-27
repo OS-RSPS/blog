@@ -2,7 +2,7 @@
 title: Knowledge Base | Player Commands
 date: 2023-06-20
 tags: [knowledge base, player commands]
-description: Knowledge Base | Player Commands.
+description: Knowledge Base | Player Commands
 ---
 <font size="1">last edited: 06/20/23</font>
 
