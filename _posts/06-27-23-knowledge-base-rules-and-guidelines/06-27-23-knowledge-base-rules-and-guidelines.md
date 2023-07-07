@@ -139,7 +139,7 @@ Below we'll outline the expected behavior of members within our Discord. For the
 >>Any for of harassment is not allowed. If you have an issue with another member, please report them using the correct process.
 <div class="spacer-small"></div>
 ><div class="command-title">No NSFW</div>
->>• This is not a server that allows or promotes NSFW content. Any form of inappropriate/sexual content will result in immediate punishment.
+>>• This is not a server that allows or promotes NSFW content. Any form of inappropriate/sexual content will result in immediate punishment.<br>
 >>• Profiles that include NSFW icons, banners, or names fall under this ruling.
 <div class="spacer-small"></div>
 ><div class="command-title">Spamming and Flooding</div>
@@ -149,5 +149,5 @@ Below we'll outline the expected behavior of members within our Discord. For the
 >>Bypassing/evasing punishments will not be tolerated and can result in a permanent ban.
 <div class="spacer-small"></div>
 ><div class="command-title">Channels and Bot Usages</div>
->>• Posting unrelated content in channels with specific usages or not using channels as to their intended use will not be tolerated.
+>>• Posting unrelated content in channels with specific usages or not using channels as to their intended use will not be tolerated.<br>
 >>• Utilizing bots with the intent to abuse their permissions will not be tolerated.
