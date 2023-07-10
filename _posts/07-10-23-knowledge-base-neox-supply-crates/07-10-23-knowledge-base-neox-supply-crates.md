@@ -21,7 +21,7 @@ description: Knowledge Base | Neox Supply Crates
     </div>
 </div>
 
-One of the more recently added systems, Neox Supply Crates are the source of a set of unique, consumable items that allow for players to train their skills whilst receiving <a href="https://blog.neox.ps/updates/">Neox Dust</a>. The crates themselves are currently obtainable as a reward from the Mystery Boxes found throughout Neox, or from being purchased at the <a href="https://blog.neox.ps/updates/">Dust Exchange</a> and range from <em>small</em> to <em>huge</em> with each higher tier offering more of the selectable supply consumable. Members who use these boxes will be prompted upon clicking the "Search" option to select one of the listed options and will receive a fixed amount of whatever they select. Supply Crates are an untradable, consumable item that are lost upon death.
+One of the more recently added systems, Neox Supply Crates are the source of a set of unique, consumable items that allow for players to train their skills whilst receiving <a href="https://blog.neox.ps/updates/">Neox Dust</a>. The crates themselves are currently obtainable as a reward from the Mystery Boxes found throughout Neox, or from being purchased at the <a href="https://blog.neox.ps/updates/">Dust Exchange</a> and range from <em>small</em> to <em>huge</em> with each higher tier offering more of the selectable supply consumable. Members who use these boxes will be prompted upon clicking the "Search" option to select one of the listed options and will receive a fixed amount of whatever they select. Supply Crates are an untradable item and as such inherit the same properties as untradable items when it comes to player death (they will not be lost).
 
 <center><img src="/assets/img/knowledgebase/supplycrates/mysterybox.png">&nbsp; &nbsp; &nbsp; &nbsp;<img src="/assets/img/knowledgebase/supplycrates/supplyinventory.png"></center>
 
@@ -70,7 +70,7 @@ After a supply has been selected and subsequently deposited, the member is then 
 >>Supply Crates are untradable and therefore cannot be traded nor posted on the Grand Exchange.
 <div class="spacer-small"></div>
 ><div class="command-title">What happens if I die with a Supply Crate in my inventory?</div>
->>The supply crate will disappear and cannot be reclaimed.
+>>The supply crate will be kept upon death and can be reclaimed from Death.
 <div class="spacer-small"></div>
 ><div class="command-title">I clicked the wrong supply option in the interface, can I go back or swap items?</div>
 >>At the moment there is no way to undo a selection. Click carefully!
