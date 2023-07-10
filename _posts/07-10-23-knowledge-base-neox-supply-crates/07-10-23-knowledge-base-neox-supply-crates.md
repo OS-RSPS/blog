@@ -55,7 +55,7 @@ After a supply has been selected and subsequently deposited, the member is then 
     <div class="changes-body changes-row articletitle">
         <div class="changes-row-header">
             <span class="icon">
-                <span class="material-symbols-outlined">dashboard</span>
+                <span class="material-symbols-outlined">dns</span>
             </span>
             <h3>Neox Supply Crate | F.A.Q</h3>
         </div>
