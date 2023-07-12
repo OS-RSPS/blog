@@ -37,7 +37,7 @@ One of the more recently added systems, Neox Supply Crates are the source of a s
     </div>
 </div>
 
-When searching a Neox Supply Crate, members will be prompted to make a selection within an interface of which supply they wish to receive; the options currently include Bars, Logs, Leather, Herbs, Meat, or Essence. Crates of a higher tier will provide increased increments of the selected supply. Once the member has clicked on which supply they wish to receive, the items will be automatically deposited in their inventory. Members will be required to have at least one free inventory space to select a supply option. Items found within the crates are tradable.
+When searching a Neox Supply Crate, members will be prompted to make a selection within an interface of which supply they wish to receive; the options currently include Bars, Logs, Leather, Herbs, Meat, or Essence. Crates of a higher tier will provide increased increments of the selected supply. Once the member has clicked on which supply they wish to receive, the items will be automatically deposited in their inventory. Members will be required to have at least one free inventory space to select a supply option. Items found within the crates are untradable.
 
 <center><img src="/assets/img/knowledgebase/supplycrates/supplyinterface.png"></center><br>
 
@@ -75,4 +75,4 @@ After a supply has been selected and subsequently deposited, the member is then 
 >>At the moment there is no way to undo a selection. Click carefully!
 <div class="spacer-small"></div>
 ><div class="command-title">Can I trade Supply Crate supplies with other Neox members?</div>
->>Contrary to the Supply Crates themselves, the contents within are tradable and may be traded or posted on the Grand Exchange!
+>>Much like the Supply Crates themselves, the items found within are untradable.
