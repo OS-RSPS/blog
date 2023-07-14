@@ -88,13 +88,13 @@ Clicking on the task itself will inform the player that they must have completed
 
 <center><video width="40%" height="40%" autoplay loop muted><source src="/assets/img/knowledgebase/quests/thelunarclan/1ataskinterface.mp4" type="video/mp4"></video>&nbsp; &nbsp; &nbsp;<video width="43%" height="43%" autoplay loop muted><source src="/assets/img/knowledgebase/quests/thelunarclan/2questinterface.mp4" type="video/mp4"></video></center>
 
-The easiest way to viewing the necessary tasks and completing them is to click the achievement title itself within the "Tasks & Achievements" tab, or by navigating to the Neox Tasks interface and using the navigation on the right to select the specific region. Members who've not completed these required Achievements will not be able to process any further during the quest.
+The easiest way to viewing the necessary tasks and completing them is to click the achievement title itself within the "Tasks & Achievements" tab, or by navigating to the Neox Tasks interface and using the navigation on the right to select the specific region. Members who've not completed these required Achievements will not be able to proceed any further during the quest.
 
 <div class="divider div-transparent"></div>
 
 # Lunar Isle
 
-The fastest way to Lunar Isle to officially begin the quest is through using the Neox teleport interface found at home. By clicking on the portal itself, navigating to the "Misc" tab, and then clicking on "Lunar Isle", players will be teleported directly to entrance of the city. Players should be cautious, because although everything within the city is friendly, the monsters (Suqah)found outside will attack players on sight. It is advised players bring appropriate combat gear with them before heading to Lunar Isle.
+The fastest way to Lunar Isle to officially begin the quest is through using the Neox teleport interface found at home. By clicking on the portal itself, navigating to the "Misc" tab, and then clicking on "Lunar Isle", players will be teleported directly to entrance of the city. Players should be cautious, because although everything within the city is friendly, the monsters (Suqah) found outside will attack players on sight. It is advised players bring appropriate combat gear with them before heading to Lunar Isle.
 
 <center><img src="/assets/img/knowledgebase/quests/thelunarclan/3gettingthere.png"></center>
 <div class="spacer-small"></div>
