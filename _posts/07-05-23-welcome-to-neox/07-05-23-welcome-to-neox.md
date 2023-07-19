@@ -1,7 +1,7 @@
 ---
 title: Welcome To Neox
 date: 2023-07-05
-tags: [landing page, neox, welcome]
+tags: [knowledge base, landing page, neox, welcome]
 description: Welcome To Neox
 ---
 Hey there, and welcome to Neox!
