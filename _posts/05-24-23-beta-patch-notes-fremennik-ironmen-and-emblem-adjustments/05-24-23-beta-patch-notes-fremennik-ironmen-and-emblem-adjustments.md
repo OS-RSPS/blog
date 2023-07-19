@@ -3,6 +3,7 @@ title: 05/24/23 | Beta Patch Notes - Fremennik, Ironmen, and Emblem Adjustments
 date: 2023-05-24
 tags: [beta, patch-notes]
 description: Neox updates from 05/24/23.
+recent_updates: true
 ---
 
 ***

@@ -3,6 +3,7 @@ title: 05/26/23 | Beta Patch Notes - More Fremennik Love and Miscellaneous Fixes
 date: 2023-05-26
 tags: [beta, patch-notes]
 description: Neox updates from 05/26/23.
+recent_updates: true
 ---
 
 ***

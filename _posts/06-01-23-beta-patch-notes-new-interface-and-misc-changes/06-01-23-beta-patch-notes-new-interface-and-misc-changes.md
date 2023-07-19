@@ -3,6 +3,7 @@ title: 06/01/23 | Beta Patch Notes - New Shop Interface and Miscellaneous Change
 date: 2023-06-01
 tags: [beta, patch-notes]
 description: Neox updates from 06/01/23.
+recent_updates: true
 ---
 
 ***

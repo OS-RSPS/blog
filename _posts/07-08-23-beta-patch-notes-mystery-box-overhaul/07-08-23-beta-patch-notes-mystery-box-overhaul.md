@@ -3,10 +3,11 @@ title: 07/08/23 | Beta Patch Notes - Mystery Box Overhaul
 date: 2023-07-08
 tags: [beta, patch-notes, mystery box, dust, overhaul, update]
 description: Neox updates from 07/08/23.
+recent_updates: true
 ---
 
 ***
-<em>Hey there, everyone, been a little while! Since our last update, we've been super busy at work restructuring a pretty major element of the server and implementing a ton of unique additional systems around it: mystery boxes. We're finally able to push this update live and are very excited to share the details with you! Beyond getting a complete face lift with the interface, we've introduced an entirely unique style of loot pool featuring an assortment of items exclusive to Neox and that we believe will make for a significantly more interesting experience than just base line loot. Through these patch notes, we're going to outline the very basics of these new systems with knowledge base entries to come that will go significantly more indepth. <br><br>As always, we're going to continue working diligently to push more and more content and hopefully be able to announce an official launch date soon. More to come, so stay tuned!
+<em>Hey there, everyone, been a little while! Since our last update, we've been ssuper busy at work restructuring a pretty major element of the server and implementing a ton of unique additional systems around it: mystery boxes. We're finally able to push this update live and are very excited to share the details with you! Beyond getting a complete face lift with the interface, we've introduced an entirely unique style of loot pool featuring an assortment of items exclusive to Neox and that we believe will make for a significantly more interesting experience than just base line loot. Through these patch notes, we're going to outline the very basics of these new systems with knowledge base entries to come that will go significantly more indepth. <br><br>As always, we're going to continue working diligently to push more and more content and hopefully be able to announce an official launch date soon. More to come, so stay tuned!
 
 <em>Thanks!
 

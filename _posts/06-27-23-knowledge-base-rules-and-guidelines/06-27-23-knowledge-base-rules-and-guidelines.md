@@ -3,6 +3,7 @@ title: Knowledge Base | Rules and Guidelines
 date: 2023-06-27
 tags: [knowledge base, rules, guidelines]
 description: Knowledge Base | Rules and Guidelines
+recent_updates: false
 ---
 <font size="1">last edited: 06/27/23</font>
 

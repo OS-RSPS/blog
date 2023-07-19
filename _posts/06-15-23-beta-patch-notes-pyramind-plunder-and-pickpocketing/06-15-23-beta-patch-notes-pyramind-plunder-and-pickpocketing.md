@@ -3,6 +3,7 @@ title: 06/15/23 | Beta Patch Notes - Pyramid Plunder and Pickpocketing
 date: 2023-06-15
 tags: [beta, patch-notes, thieving, pryamid, plunder]
 description: Neox updates from 06/15/23.
+recent_updates: true
 ---
 
 ***

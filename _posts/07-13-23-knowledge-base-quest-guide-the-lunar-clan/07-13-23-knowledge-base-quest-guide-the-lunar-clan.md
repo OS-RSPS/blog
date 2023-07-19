@@ -3,6 +3,7 @@ title: Knowledge Base | Quest Guides | The Lunar Clan
 date: 2023-07-13
 tags: [knowledge base, lunar, clan, guide]
 description: Knowledge Base | Quest Guides | The Lunar Clan
+recent_updates: false
 ---
 
 ***

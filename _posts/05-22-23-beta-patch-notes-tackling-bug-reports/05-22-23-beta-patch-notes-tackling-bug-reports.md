@@ -3,6 +3,7 @@ title: 05/22/23 | Beta Patch Notes - Tackling Bug Reports
 date: 2023-05-22
 tags: [beta, patch-notes]
 description: Neox updates from 05/22/23.
+recent_updates: true
 ---
 
 ***

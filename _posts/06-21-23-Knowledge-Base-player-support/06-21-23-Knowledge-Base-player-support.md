@@ -3,6 +3,7 @@ title: Knowledge Base | Player Support
 date: 2023-06-20
 tags: [knowledge base, player support]
 description: Knowledge Base | Player Support
+recent_updates: false
 ---
 ## Table of Contents
 
