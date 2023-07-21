@@ -10,6 +10,14 @@ recent_updates: false
 
 <font size="1">last edited: 07/20/23</font>
 
+# Table of Contents
+
+• [Wilderness Emblem Activation](#wilderness-emblem-activation) - <font size="1">How to activate your wilderness emblem.</font><br>
+• [Wilderness Emblem Perks](#wilderness-emblem-perks) - <font size="1">The perks and different tiers of the emblem.</font><br>
+• [Wilderness Emblem Leveling](#wilderness-emblem-leveling) - <font size="1">Techniques for leveling a wilderness emblem.</font><br>
+• [Selling a Wilderness Emblem](#selling-a-wilderness-emblem) - <font size="1">Selling an emblem for blood money.</font><br>
+
+
 <div class="spacer-large"></div>
 <div class="changes-body">
     <div class="changes-body changes-row articletitle">
@@ -168,6 +176,8 @@ Leveling an emblem through combat is the <em>safest</em> means of leveling an em
         </div>
     </div>
 </div>
+
+## Selling a Wilderness Emblem
 
 A player is able to sell their wilderness emblem at any time to Ferox, however it is advised they wait until the higher tiers of emblem leveling before doing so as the value of the emblem scales exponentially with each tier increase. Players who choose to sell their tiers will be offered an amount of blood money that is calculated by the tier of the album, following by the overall point value. As emblems themselves don't have a point cap, though are restricted to a maximum tier, the most efficient means of converting wilderness emblems to blood money is to first get them to tier 5 through wilderness activities and then selling them; remember, the more points you have overall on the emblem, the more the multiplicative value the tiers will provide.
 
