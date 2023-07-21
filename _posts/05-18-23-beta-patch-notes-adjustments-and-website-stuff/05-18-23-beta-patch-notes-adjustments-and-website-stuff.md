@@ -60,7 +60,7 @@ recent_updates: true
 - Wilderness Emblem tiers have been rebalanced. They now require less charge to reach higher tiers, and the charge to blood money conversion has been improved; previously, the benefits of a Tier 5 emblem far outweighted its trade-in value, especially considering how long it took to reach the final tier. These changes are meant to reduce the opportunity cost of trading in an emblem by making it significantly easier to reach the final tier.
   - Tier 1: Conversion rate increased from 10:1 to 12:1.
   - Tier 2: Conversion rate increased from 12:1 to 15:1; charge required to reach this tier reduced to 250 from 500.
-  - Tier 3: Conversion rate increased from 15:1 to 18:1; charge required to reach this tier reduced to 500 from 100.
+  - Tier 3: Conversion rate increased from 15:1 to 18:1; charge required to reach this tier reduced to 500 from 1000.
   - Tier 4: Conversion rate increased from 18:1 to 20:1; charge required to reach this tier reduced to 1000 to 2000. 
   - Tier 5: Conversion rate increased from 20:1 to 25:1; charge required to reach this tier reduced to 2000 from 5000. 
 
