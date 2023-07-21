@@ -133,7 +133,7 @@ To check the progression of your emblem as you gain skill, simply click on the e
 
 The emblem itself can be slowly leveled throughout a variety of different activities. Within this section, we'll briefly review a couple of examples and outline relevant information to each. 
 
->It is worth nothing that with the introduction of <a href="#">Wilderness Dust</a>, the rates at which wilderness emblem points can be acquired has been drastically increased.
+>It is worth nothing that with the introduction of <a href="#">Wild Essence</a>, the rates at which wilderness emblem points can be acquired has been drastically increased.
 
 <h1 style="font-size: 20px; color:#885eac">Skilling</h1>
 
