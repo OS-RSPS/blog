@@ -1,8 +1,8 @@
 ---
-title: Welcome To Neox
+title: Content Creation
 date: 2023-07-05
 tags: [knowledge base, landing page, neox, welcome]
-description: Welcome To Neox
+description: Content Creation
 recent_updates: false
 ---
 Hey there, and welcome to Neox!
