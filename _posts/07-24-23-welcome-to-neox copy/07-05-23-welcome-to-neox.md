@@ -1,11 +1,11 @@
 ---
 title: Content Creation
-date: 2023-07-05
+date: 2023-07-24
 tags: [knowledge base, landing page, neox, welcome]
 description: Content Creation
 recent_updates: false
 ---
-Hey there, and welcome to Neox!
+Hey there, and welcome to Neox! 22
 
 At the moment, our project is still under heavy development. Though we're drawing ever closer to our official release, we're not there quite yet, nor are we in a position to announce a definitive date... though we're getting closer with each day. Within this blog, you'll be able to follow along with the progression of our server through our <a href="https://blog.neox.ps/updates/">Patch Notes</a>. Development has come a very long way since we'd originally started and we're very excited to be at a stage where we can begin advertising our progression.
 
