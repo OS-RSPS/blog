@@ -95,7 +95,7 @@ Long story short, a vast majority of the activities found within the wilderness 
 
 <br><center><img src="/assets/img/updates/080123/emblemcharge.png"></center><br>
 
-We've also introduced a new weapon that will work perfectly for softening up an unaware target before you really get to attacking it! Mind you, this will only work for wilderness creatures, but will make for a perfect opening into those otherwise dangerous boss fights, assuming you get the jump on them. Introducing the Shadow Dagger, a weapon acquired very rarely by thieving from high level Rogues or by stealing from the Rogues' chests.
+We've also introduced a new weapon that will work perfectly for softening up an unaware target before you really get to attacking it! Mind you, this item will take a minor amount of your special attack outside of the wilderness, but will make for a perfect opening into those otherwise dangerous boss fights, assuming you get the jump on them. Introducing the Shadow Dagger, a weapon acquired very rarely by thieving from high level Rogues or by stealing from the Rogues' chests.
 
 <center><video autoplay loop muted><source src="/assets/img/updates/080123/shadowdagger.mp4" type="video/mp4"></video></center>
 
