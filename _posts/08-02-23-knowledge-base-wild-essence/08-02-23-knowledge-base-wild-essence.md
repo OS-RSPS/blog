@@ -26,7 +26,7 @@ Within Neox, Wild Essence's primary function is to act as a charge modifier for 
 
 <center><video autoplay loop muted><source src="/assets/img/knowledgebase/wildessence/wildessence.mp4" type="video/mp4"></video></center>
 
-Currently, Wild Essence may only be acquired as a drop from the <a href="https://blog.neox.ps/knowledge-base-wilderness-emblems/">Donation Mystery Box</a>.
+Currently, Wild Essence may only be acquired as a drop from the <a href="#">Donation Mystery Box</a>.
 
 <div class="divider div-transparent"></div>
 
