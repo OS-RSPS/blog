@@ -48,7 +48,7 @@ The Lunar Clan questline is the prerequisite requirement to unlocking Lunar Magi
 The following will outline the required items, prerequisite tasks/challenges, recommended stats and items to bring along, and any other relevant information. This is more to serve as a checklist before beginning the Lunar Clan quest!
 
 #### Required Items
-><div class="command-title"><input type="checkbox" id="lunararmor"><label for="lunararmor"> Lunar Armour (requires: 65 magic, 40 defence): Helm, Torso, Legs, Boots, Gloves, and Cape; made during the quest.</label><br></div>
+><div class="command-title"><input type="checkbox" id="lunararmor"><label for="lunararmor"> Lunar Armour (requires: 65 magic, 40 defence); requires 9x Suqah leather; made during the quest.</label><br></div>
 ><div class="command-title"><input type="checkbox" id="lunarstaff"><label for="lunarstaff"> Dramen/Lunar Staff: acquired through Lumbridge Task; made during the quest.</label><br></div>
 ><div class="command-title"><input type="checkbox" id="sleeppotion"><label for="sleeppotion"> Waking Sleep Potion: 1x Vial of Water, 1x Guam Leaf, 1x Marrentill; made during the quest.</label><br></div>
 ><div class="command-title"><input type="checkbox" id="somecoins"><label for="somecoins"> Some Coins (roughly 1-2k should be enough).</label><br></div>
