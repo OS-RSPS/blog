@@ -10,7 +10,7 @@ recent_updates: true
 <br>
 Hey there, everyone!
 
-Today has been... an interesting one! Following an absolute surge in beta activity with the recently opened applications (which we're actively inviting more people to join in on by joining our Discord and applying), it's been an absolute blast getting to play through the server with other players and receive their feedback! Quite a few bugs have been discovered on some of the newly implemented systems, with some of them being rather embarassingly spicy, so the majority of our efforts today have gone towards patching up all of the holes that're getting poked open.
+Today has been... an interesting one! Following an absolute surge in beta activity with the recently opened applications (which we're actively inviting more people to join in on by joining our Discord and applying), it's been an absolute blast getting to play through the server with other players and receive their feedback! Quite a few bugs have been discovered on some of the newly implemented systems, with some of them being rather embarrassingly spicy, so the majority of our efforts today have gone towards patching up all of the holes that're getting poked open.
 
 Besides that, one of the larger ventures we'd taken on was rewriting how players are being saved. In doing so, it allows us to further integrate player profiles into the game and opens up options for us (such as bridging their accounts to the Discord)! In doing so, we had a bit of a late night coding session which resulted in some funky turnouts with saving on things like friend's lists, but those have since been ironed out and we're back to smooth sailing!
 
