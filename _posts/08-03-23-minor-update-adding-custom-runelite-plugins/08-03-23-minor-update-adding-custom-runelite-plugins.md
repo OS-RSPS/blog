@@ -14,7 +14,7 @@ Today has been a rather exciting day! In past miniature updates, such as this ve
 
 <center><video autoplay loop muted><source src="/assets/img/updates/080323/pluginpreview.mp4" type="video/mp4"></video></center>
 
-Live updating, lightweight, and fully customizable, this plugin will come default enabled when launching the Neox version of a Runelite client. Players who wish to interact and customize with the plugins settings need only click the "configuration" option on the right-side of the Runelite client, search for "Resource Bag", and click the gear icon from there. 
+Live updating, lightweight, and fully customizable, this plugin will come default enabled when launching the Neox version of a Runelite client. Players who wish to interact and customize with the plugin's settings need only click the "configuration" option on the right-side of the Runelite client, search for "Resource Bag", and click the gear icon from there. 
 
 <center><img src="/assets/img/updates/080323/pluginconfiguration.png"></center>
 
