@@ -12,7 +12,7 @@ Hey there, everyone!
 
 Today, much like yesterday, has been super busy! Once again, we've been getting a ton of reception from all of the current beta testers, so our continued, deepest thanks to them! We can't believe some of the bugs that're being discovered, but they're definitely keeping us scratching our heads and busy for sure. 
 
-On top of that, we've implemented the newest cache from RS, so that'll allow us access to Desert Treasure 2 bosses and forestry, though we'll likely be looking to implement them both at a later date. As it stands, we're exceptionally busy with the ongoing beta phase! As a reminder, to those interested, please click the button at the bottom of the thread and join our Discord! It might not be an exaggeration to say we've been lucky enough to garner the best, most effective, and most collectively attractive beta testing team of all time.
+On top of that, we've implemented the newest cache from RS, so that'll allow us access to Desert Treasure 2 bosses and forestry, though we'll likely be looking to implement them both at a later date. As it stands, we're exceptionally busy with the ongoing beta phase! As a reminder, to those interested, please click the button at the bottom of this post and join our Discord! It might not be an exaggeration to say we've been lucky enough to garner the best, most effective, and most collectively attractive beta testing team of all time.
 <div class="spacer-medium"></div>
 <center>
 <img src="/assets/img/updates/080423/cacheupdate.png"><br>
