@@ -1,5 +1,5 @@
 ---
-title: 07/27/23 | Minor Update - Cache Update and Ongoing Beta
+title: 08/04/23 | Minor Update - Cache Update and Ongoing Beta
 date: 2023-08-04
 tags: [beta, patch-notes, minor update]
 description: Minor update from 08/04/23.
