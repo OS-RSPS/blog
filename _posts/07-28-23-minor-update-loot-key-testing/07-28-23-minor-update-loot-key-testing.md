@@ -1,6 +1,6 @@
 ---
 title: 07/28/23 | Minor Update - Loot Key Testing
-date: 2023-07-27
+date: 2023-07-28
 tags: [beta, patch-notes, minor update]
 description: Minor update from 07/28/23.
 recent_updates: true
