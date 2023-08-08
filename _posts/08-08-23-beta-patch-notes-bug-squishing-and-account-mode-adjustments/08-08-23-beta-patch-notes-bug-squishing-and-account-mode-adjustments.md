@@ -9,7 +9,7 @@ recent_updates: true
 ***
 <em>Hey there, everyone!<em>
 
-<em>Sorry for the delay with this patch notes breakdown! Originally, it was intended to be posted for Monday, however a couple of small hiccups within the server caused it to be just a little bit delayed. As it turns out, pulling threads discovered in the form of bugs doesn't always lead to the easiest of their removals and can sometimes lead into quite an unraveling. Throughout this post, we'll outline the changes made to the different systems within the servers, the numerous bumps that've been smoothed out, and some other miscellaneous information pertaining to the beta!</em>
+<em>Sorry for the delay with this patch notes breakdown! Originally, it was intended to be posted for Monday, however a couple of small hiccups within the server caused it to be just a little bit delayed. As it turns out, pulling threads discovered in the form of bugs doesn't always lead to the easiest of their removals and can sometimes lead into quite an unraveling. Throughout this post, we'll outline the changes made to the different systems within the server, the numerous bumps that've been smoothed out, and some other miscellaneous information pertaining to the beta!</em>
 
 <center><video autoplay loop muted><source src="/assets/img/updates/080823/bugfixing.mp4" type="video/mp4"></video></center>
 
