@@ -147,7 +147,7 @@ Once all pieces have been crafted, and if the player has the necessary combat st
 <div class="spacer-small"></div>
 ### Carving the Staff
 
-Carving the staff will require the player to have already completed the "Lumbridge Tourist" achievement. Doing so unlocks the option to purchase a Dramen Staff from the Taskmaster at the Neox home, which is what is used when making the Lunar Staff. Players who have no completes this achievement can click on the "Lumbridge Tourist" listing within the "Tasks & Achievements" tab to view the required tasks.
+Carving the staff will require the player to have already completed the "Lumbridge Tourist" achievement. Doing so unlocks the option to purchase a Dramen Staff from the Taskmaster at the Neox home, which is what is used when making the Lunar Staff. Players who have not completed this achievement can click on the "Lumbridge Tourist" listing within the "Tasks & Achievements" tab to view the required tasks.
 
 <center><video autoplay loop muted><source src="/assets/img/knowledgebase/quests/thelunarclan/6glumbridgetourist.mp4" type="video/mp4"></video></center>
 
