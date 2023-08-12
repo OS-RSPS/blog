@@ -21,7 +21,7 @@ Firstly, hopefully everyone's been enjoyed their week and has lined themselves u
 <em><font size="1">Of course, no boss would be complete without a custom title surrounding the task of opening the very door to them!</font></em>
 </center>
 <div class="spacer-medium"></div>
-Also, to save the very arduous process of having to buy massive stacks of anything, we've now modified the shop interface to allow for a "buy-x" option! Squirrel, you may now rejoice (and to everyone else who perhaps found out that removing stacks of tridents will reset its charges, or getting one as a monthly task completion ward resets its charges, or really just looking at it a little funny will reset its charges), for this will become available with our next update!
+Also, to save the very arduous process of having to buy massive stacks of anything, we've now modified the shop interface to allow for a "buy-x" option! Squirrel, you may now rejoice (and to everyone else who perhaps found out that removing stacks of tridents will reset its charges, or getting one as a monthly task completion award resets its charges, or really just looking at it a little funny will reset its charges), for this will become available with our next update!
 <div class="spacer-medium"></div>
 <center>
 <video autoplay loop muted><source src="/assets/img/updates/081123/buyx.mp4" type="video/mp4"></video>
