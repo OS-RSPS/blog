@@ -7,7 +7,7 @@ recent_updates: false
 ---
 
 ***
-<em>Hey there, everyone! As our beta continues forward, we've been thinking of more and more ways to both organically incentive activity within, but also to give a sense of direction to those who might feel a bit more comfortable with a but of guidance on what needs testing. With this in mind, we've decided to introduce the Beta Bounty system as a way to cover both! Throughout this Knowledge Base entry, we'll outline exactly what this system is, how it works, how to enroll, and anything else that might be necessary!</em>
+<em>Hey there, everyone! As our beta continues forward, we've been thinking of more and more ways to both organically incentivize activity within, but also to give a sense of direction to those who might feel a bit more comfortable with a bit of guidance on what needs testing. With this in mind, we've decided to introduce the Beta Bounty system as a way to cover both! Throughout this Knowledge Base entry, we'll outline exactly what this system is, how it works, how to enroll, and anything else that might be necessary!</em>
 
 <em>Ultimately, our goal is to introduce a little bit more structure to our beta in a way that's entirely optional to opt in. We're not going to be strong-arming anyone to partake in this system, however we're hoping the bounty rewards themselves are incentive enough for beta testers to involve themselves! Anywho, without further adu, let's get started...</em>
 
