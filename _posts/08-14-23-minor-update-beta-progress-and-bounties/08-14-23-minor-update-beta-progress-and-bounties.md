@@ -1,5 +1,5 @@
 ---
-title: 08/11/23 | Minor Update - Beta Progress and Bounties
+title: 08/14/23 | Minor Update - Beta Progress and Bounties
 date: 2023-08-14
 tags: [beta, patch-notes, minor update]
 description: Minor update from 08/14/23.
