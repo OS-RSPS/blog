@@ -10,7 +10,7 @@ recent_updates: true
 <br>
 Hey there, everyone!
 
-Firstly, hopefully everyone's been enjoyed their week and has lined themselves up something even <em>slightly</em> noteworthy for the weekend! And hey, if not? Well, you could always come play the Neox beta and at the very least be among friends! For this week's final post, we've a couple of things to report, though nothing of the outmost exciting nature. Come next week though? It's going to get a little crazy, so definitely stay tuned! Firstly, Nex has been further progressed to the point where we've begun introducing achievements surrounding the upcoming boss alongside implementing the correct means of accessing the boss!
+Firstly, hopefully everyone's been enjoying their week and has lined themselves up something even <em>slightly</em> noteworthy for the weekend! And hey, if not? Well, you could always come play the Neox beta and at the very least be among friends! For this week's final post, we've a couple of things to report, though nothing of the outmost exciting nature. Come next week though? It's going to get a little crazy, so definitely stay tuned! Firstly, Nex has been further progressed to the point where we've begun introducing achievements surrounding the upcoming boss alongside implementing the correct means of accessing the boss!
 <div class="spacer-medium"></div>
 <center>
 <video autoplay loop muted><source src="/assets/img/updates/081123/nextasks.mp4" type="video/mp4"></video>
