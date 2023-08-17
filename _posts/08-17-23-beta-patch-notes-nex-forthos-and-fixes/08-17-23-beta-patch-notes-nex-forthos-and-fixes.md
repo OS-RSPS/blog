@@ -111,7 +111,7 @@ The tournament system is intended to be a fun way for members to blow off some s
 
 <h1 style="color:#885eac;">Patch Summary</h1>
 
-<em>Below will outline all changes found within this patch. If you have any questions or concerns, please don't hesitate to share feedback within our Official Discord! Once again, and as usual, we'd like to thank all of the beta testers for making this possible. Without the time you've invested into our project and the incredible feedback, we wouldn't be nearly as far along as we currently are, so thank you for everything you've done for us so far. Anywho, without further adu, the patch summary:</em>
+<em>Below will outline all changes found within this patch. If you have any questions or concerns, please don't hesitate to share feedback within our Official Discord! Once again, and as usual, we'd like to thank all of the beta testers for making this possible. Without the time you've invested into our project and the incredible feedback, we wouldn't be nearly as far along as we currently are, so thank you for everything you've done for us so far. Anywho, without further ado, the patch summary:</em>
 
 <div class="spacer-large"></div>
 <div class="changes-body">
