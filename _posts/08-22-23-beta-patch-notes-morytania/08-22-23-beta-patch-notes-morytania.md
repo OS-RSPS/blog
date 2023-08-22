@@ -97,7 +97,7 @@ Found within Morytania, the Slayer Tower is home to a large variety of monsters 
         - Morytania legs 4
         - Experienced received from burying bones with the Bonecrusher is increased by another 50%, to a total of 200%
         - Another 25% increased chance to receive unique drops from Barrows, to a total of 50%
-        - 15% increaed Slayer experience received in the Slayer Tower
+        - 15% increased Slayer experience received in the Slayer Tower
         - Receive 5 additional ecto-tokens when worshipping the Ectofuntus
 - New achievement: Morytania Legend
     - Complete ALL tasks in the Morytania area.
