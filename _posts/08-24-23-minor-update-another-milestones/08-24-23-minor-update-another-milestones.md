@@ -1,5 +1,5 @@
 ---
-title: 08/24/23 | Minor Update - Miletones
+title: 08/24/23 | Minor Update - Milestones
 date: 2023-08-24
 tags: [beta, patch-notes, minor update]
 description: Minor update from 08/24/23.
