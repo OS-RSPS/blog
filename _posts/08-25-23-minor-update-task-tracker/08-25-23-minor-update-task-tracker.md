@@ -22,7 +22,7 @@ The plugin itself is designed in a way to update and sync itself with whatever a
 <div class="spacer-medium"></div>
 On top of the live updating, we've also implemented both a functional search feature which a player can use to search through tasks based on keywords, and the ability to apply filters for things such as skills, regions, achievement difficulty, and activity type (such as exploration or collection). Each task is listed with its difficulty tier, tag line, and reward for completion. We're absolutely ecstatic with the result thus far and can't wait to continue building upon this plugin, alongside introducing a variety of others in due time!
 
-Thanks again to everyone who's continuing to stay involved, and to our ever incredible beta testing team. The next reveal? Well, what's a project without a website?
+Thanks again to everyone who's continuing to stay involved, and to our ever incredible beta testing team. The next reveal? Well, what's a project without a website? To everyone, enjoy your weekends and we shall see you again on Monday with another update.
 
 <em>Thanks!
 
