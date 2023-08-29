@@ -10,7 +10,7 @@ recent_updates: true
 <br>
 Hey there, everyone!
 
-As we'd been mentioning before, we've finally started progressing on the website in a way that has it beginning to take shape! The website itself contains a variety of different pages, each with different modals, and each of those modals have modals, and within those mo- well, you get the point. We've been quite busy and are very thrilled to ever so slowly approach a stage where we can stop redirecting website traffic to our blog and instead have anyone who's curious to investigate to exactly that!
+As we'd been mentioning before, we've finally started progressing on the website in a way that has it beginning to take shape! The website itself contains a variety of different pages, each with different modals, and each of those modals have modals, and within those mo- well, you get the point. We've been quite busy and are very thrilled to ever so slowly approach a stage where we can stop redirecting website traffic to our blog and instead have anyone who's curious enough to investigate to do exactly that!
 
 <div class="spacer-medium"></div>
 <center><img src="/assets/img/updates/082823/hiscores.png"><br>
