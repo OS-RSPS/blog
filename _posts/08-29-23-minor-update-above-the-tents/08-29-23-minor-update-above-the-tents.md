@@ -16,7 +16,7 @@ A bit out of left field, but today's post is aimed as a slight nod and pat on th
 <em><font size="1">Remember, one foot in front of the other and don't look down!</font></em></center>
 <div class="spacer-medium"></div>
 
-As with everyone update post we do, we'd like to thank everyone who's been involved within the project thus far and for your continued efforts in helping us to become something more than just another run-of-the-mill, one day at a time. As for the next update post? Well, let's just say a major point of contention within a specific repeating pop-up is firmly being addressed. Stay tuned for more!
+As with every update post we do, we'd like to thank everyone who's been involved within the project thus far and for your continued efforts in helping us to become something more than just another run-of-the-mill, one day at a time. As for the next update post? Well, let's just say a major point of contention within a specific repeating pop-up is firmly being addressed. Stay tuned for more!
 
 <em>Thanks!
 
