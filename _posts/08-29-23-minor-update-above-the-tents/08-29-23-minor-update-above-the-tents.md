@@ -1,5 +1,5 @@
 ---
-title: 08/28/23 | Minor Update - Above the Tents
+title: 08/29/23 | Minor Update - Above the Tents
 date: 2023-08-29
 tags: [beta, patch-notes, minor update]
 description: Minor update from 08/29/23.
