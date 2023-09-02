@@ -1,5 +1,5 @@
 ---
-title: 08/31/23 | Minor Update - Something Different
+title: 08/81/23 | Minor Update - Something Different
 date: 2023-08-31
 tags: [beta, patch-notes, minor update]
 description: Minor update from 08/31/23.
