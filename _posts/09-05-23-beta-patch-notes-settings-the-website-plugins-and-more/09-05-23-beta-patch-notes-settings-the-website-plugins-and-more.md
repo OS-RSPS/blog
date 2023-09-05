@@ -1,5 +1,5 @@
 ---
-title: 08/22/23 | Beta Patch Notes - Settings, the Website, Plugins, and More
+title: 09/05/23 | Beta Patch Notes - Settings, the Website, Plugins, and More
 date: 2023-09-05
 tags: [beta, patch-notes, settings, website, bonfire, tasks]
 description: Neox updates from 09/05/23.
