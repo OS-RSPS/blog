@@ -28,7 +28,7 @@ recent_updates: false
     </div>
 </div>
 
-By voting for Neox through the different available toplists, you'll be actively contributing to the growth of the community and for that... we're beyond grateful. Pushing our name up through the toplist provides exposure for the server, which in turn creates the chance of new members joining! Currently, the voting process is housed within our website on the <a href="https://neox.ps/vote">Voting</a> page. To access this page, a member must have created an account through the website and be logged in. This is because voting is tied to the account the submissions are made through, which also means that whichever account is logged in at the time during the voting is the one that will be able to claim the rewards ingame!
+By voting for Neox through the different available toplists, you'll be actively contributing to the growth of the community and for that... we're beyond grateful. Pushing our name up through the toplist provides exposure for the server, which in turn creates the chance of new members joining! Currently, the voting process is housed within our website on the <a href="https://neox.ps/vote">Voting</a> page or within the ingame menu. To access the webpage, a member must have created an account through the website and be logged in. This is because voting is tied to the account the submissions are made through, which also means that whichever account is logged in at the time during the voting is the one that will be able to claim the rewards ingame!
 
 <div class="spacer-small"></div>
 >We strongly recommend players double check that they're logged into the correct account before voting.
@@ -37,7 +37,14 @@ By voting for Neox through the different available toplists, you'll be actively 
 <em><font size="1">Currently, there is 5 available voting sites, each with their own timer.</font></em></center>
 <div class="spacer-medium"></div>
 
-After going through the process of voting, the button will start an automatic timer once the callback has been received and the vote will be able to be claimed ingame through the Loyalty Manager at home. This Knowledge Base guide will go through the process of voting, how to claim the points ingame, and the available rewards that can be acquired.
+After going through the process of voting, the button will start an automatic timer once the callback has been received and the vote will be able to be claimed ingame through the Loyalty Manager at home. Alternatively, members are able to access the ingame voting interface by typing "::vote" within their chat to bring up a window. This window functions the same as the website in that clicking a panel will forward a member to a voting site and will update upon vote submission.
+
+<div class="spacer-medium"></div>
+<center><img src="/assets/img/knowledgebase/voting/ingame.png"><br>
+<em><font size="1">The ingame interface functions nearly the same as the website panel.</font></em></center>
+<div class="spacer-medium"></div>
+
+This Knowledge Base guide will go through the process of voting, how to claim the points ingame, and the available rewards that can be acquired.
 
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
