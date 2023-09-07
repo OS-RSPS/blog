@@ -104,7 +104,7 @@ These items will be ever changing, so be sure to check back regularly to see wha
 
 <div class="spacer-small"></div>
 ><div class="command-title">Can I trade vouchers with other players?</div>
->>Vouchers are not a tradable item, which means they also cannot be posted on the Grand Exchange.
+>>Vouchers are tradable between players! Make sure you get a good price.
 <div class="spacer-small"></div>
 ><div class="command-title">What happens if I don't claim my votes right away?</div>
 >>As voting is saved in a database, they will continue to accumulate until claimed.
