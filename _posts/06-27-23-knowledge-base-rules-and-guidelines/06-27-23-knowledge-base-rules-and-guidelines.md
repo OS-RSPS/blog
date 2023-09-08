@@ -95,6 +95,16 @@ Advertising websites, regardless of their purpose, is strictly forbidden. The on
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
+## 10. <span style="color:#845cad">Blackmail</span>
+<em>Coercing, threatening, or attempting to manipulate members using sensitive information</em>
+<div class="spacer-small"></div>
+>Encouraging Others to Break Rules: It is strictly prohibited to encourage, incite, or coerce fellow community members to violate any of the Neox rules. Encouragement to break rules undermines the integrity of our community and can lead to a disruptive and negative environment, and will have a zero tolerance policy.
+<div class="spacer-small"></div>
+
+Blackmail in any form is strictly prohibited within the Neox community. This includes any attempt to coerce, threaten, or manipulate members using sensitive information or personal details to gain an advantage or cause harm. We prioritize the safety and integrity of our community members.
+<div class="spacer-medium"></div>
+<div class="divider div-transparent"></div>
+
 <div class="spacer-large"></div>
 <div class="changes-body">
     <div class="changes-body changes-row articletitle">
