@@ -40,6 +40,8 @@ Below will outline the official Neox rules. As a disclaimer, these are simply a 
 <div class="spacer-small"></div>
 >Any form of harassment is not allowed. If you have an issue with another member, please report them using the correct process.
 <div class="spacer-small"></div>
+>Encouraging Others to Break Rules: It is strictly prohibited to encourage, incite, or coerce fellow community members to violate any of the Neox rules. Encouragement to break rules undermines the integrity of our community and can lead to a disruptive and negative environment, and will have a zero tolerance policy.
+<div class="spacer-small"></div>
 
 At Neox, we believe in exercising common sense; racism, slurs, derogatory remarks, and really just any sort of statements or behavior intended to offend or demean any of our community or staff members will be met with zero tolerance. We want our community to be a place of feeling welcomed, a place where members feel safe to be themselves and can enjoy the social interactions of the game. Our staff will be gauging any behavior that conflicts with this goal with their own discretion and will punish accordingly. 
 
@@ -74,32 +76,29 @@ Any attempt at abusing bugs, regardless of the end result, will not be tolerated
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
-## 7. <span style="color:#845cad">Gambling</span>
+## 6. <span style="color:#845cad">Gambling</span>
 <em>Flower Poker, Dicing, etc.</em>
 
 Gambling, under any title or loophole, is permitted within Neox. The only point we wish to emphasize regarding participating in said activity is that although it’s sanctioned, it’s to be engaged in at one’s own discretion; by this, we mean that staff intervention will be done only at a very last resort and at their own prerogative, and is not something we will be emphasizing our staff to address. Gambling will be entirely moderated by the community as it sees fit, without staff oversight, so keep this in mind before testing your standing with lady luck against another player.
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
-## 8. <span style="color:#845cad">Macroing and Third Party Software</span>
+## 7. <span style="color:#845cad">Macroing and Third Party Software</span>
 <em>Botting, Macros, and Cheating</em>
 
 Botting, as it’s more commonly known as, is strictly prohibited. This can include macros for automating specific server interactions, utilizing automated switching software for leveraging an advantage over another player, or really just any software outside of our game client honed in providing an edge over another player. From a player’s perspective, downloading and attempting to run an outside client is a massive risk to both your own account’s security from a phishing perspective, but will also be flagged from our internal systems and have your account restricted from our perspective.
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
-## 9. <span style="color:#845cad">Advertising Websites</span>
+## 8. <span style="color:#845cad">Advertising Websites</span>
 <em>Gold Selling, Account Services, etc.</em>
 
 Advertising websites, regardless of their purpose, is strictly forbidden. The only addresses permitted for members to share are branches of the Neox domain. From the player experience, visiting a website someone has advised you to go to can result in a variety of nefarious activities, such as having your IP logged (in an attempt to DDOS your internet connection) or your account details being phished. We ask that members use their own discretion and report anyone making an effort to guide members into visiting outside websites.
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
-## 10. <span style="color:#845cad">Blackmail</span>
+## 9. <span style="color:#845cad">Blackmail</span>
 <em>Coercing, threatening, or attempting to manipulate members using sensitive information</em>
-<div class="spacer-small"></div>
->Encouraging Others to Break Rules: It is strictly prohibited to encourage, incite, or coerce fellow community members to violate any of the Neox rules. Encouragement to break rules undermines the integrity of our community and can lead to a disruptive and negative environment, and will have a zero tolerance policy.
-<div class="spacer-small"></div>
 
 Blackmail in any form is strictly prohibited within the Neox community. This includes any attempt to coerce, threaten, or manipulate members using sensitive information or personal details to gain an advantage or cause harm. We prioritize the safety and integrity of our community members.
 <div class="spacer-medium"></div>
