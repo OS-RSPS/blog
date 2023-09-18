@@ -5,7 +5,7 @@ tags: [knowledge base, rules, guidelines]
 description: Knowledge Base | Rules and Guidelines
 recent_updates: false
 ---
-<font size="1">last edited: 06/27/23</font>
+<font size="1">last edited: 09/12/23</font>
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ recent_updates: false
 
 ##### Server Rules and Guidelines
 
-Below will outline the official Neox rules. As a disclaimer, these are simply a rough outline and we trust our staff to enforce them to the best of their discretion. Players found attempting to circumvent the rules in any sense, regardless of how clever a loophole they believe to have found, will be punished all the same! We entrust our members to do their best at interpreting and adhering to these rules if they wish to be a part of the Neox community.
+Below will outline the official Neox rules. It's important to understand that these rules are a broad overview, and we rely on our capable staff to enforce them with fairness and discretion. We emphasize that any attempts to evade these rules, no matter how clever, will result in appropriate consequences. We have confidence in our members to interpret and follow these rules if they wish to be active members of the Neox community.
 
 ## 1. <span style="color:#845cad">General Behavior</span>
 <em>Inappropriate Language, Conduct, and Ethics</em>
@@ -43,64 +43,110 @@ Below will outline the official Neox rules. As a disclaimer, these are simply a 
 >Encouraging Others to Break Rules: It is strictly prohibited to encourage, incite, or coerce fellow community members to violate any of the Neox rules. Encouragement to break rules undermines the integrity of our community and can lead to a disruptive and negative environment, and will have a zero tolerance policy.
 <div class="spacer-small"></div>
 
-At Neox, we believe in exercising common sense; racism, slurs, derogatory remarks, and really just any sort of statements or behavior intended to offend or demean any of our community or staff members will be met with zero tolerance. We want our community to be a place of feeling welcomed, a place where members feel safe to be themselves and can enjoy the social interactions of the game. Our staff will be gauging any behavior that conflicts with this goal with their own discretion and will punish accordingly. 
+- Excessive use of offensive language in clan chat.
+- Continual harassment of another member.
+- Encouraging fellow members to participate in rule-breaking activities.
 
-Being a member of this community is an open invitation to anyone and everyone. We continue to work hard on our project and want members to be able to appreciate everything it has to offer. Behaving in a way that’s detrimental to the community experience as a whole is, simply put, is something we won’t tolerate; common sense ruling applied.
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 ## 2. <span style="color:#845cad">Real World Trading</span>
-<em>Selling Ingame Items, Accounts, or Account Names using third party websites</em>
+<em>Selling In-game Items, Accounts, or Account Names using third-party websites</em>
 
-Any attempts at selling ingame items, gold, accounts, or account names utilizing third party websites or back channels will not be tolerated. Neox offers a shop, accessible via ingame menus and the website itself, where members are able to purchase credits and cosmetic items that can be then exchanged in game with other players, should they wish (or alternatively worn themselves for big fashionscape points). This is the only form of website:game interaction that is permitted regarding the transaction of items or gold.
+This rule pertains to in-game transactions. It states that members should only engage in item or gold transactions through the official Neox shop, accessible in-game and on the website. Attempting to sell in-game items, gold, accounts, or account names through external websites or back channels is strictly prohibited. This rule ensures that all in-game transactions occur within the Neox framework, promoting fairness and security.
+
+- Advertising a third-party website for buying and/or selling in-game items.
+- Attempting to sell an in-game account on an external platform.
+
 <div class="spacer-medium"></div>
 
 ## 3. <span style="color:#845cad">Staff Impersonation</span>
 <em>Impersonating a member of Neox staff in any way, shape, or form</em>
 
-Impersonating a member of Neox staff is greatly frowned upon. With that in mind, a member of our team will never ask you for any of your personal information directly, nor will we ever attempt to access your account or ask you to visit a specific site outside of the Neox directory. Members of staff will always have a crown next to their name. If a member messages you claiming to be a member of staff, please report the behavior immediately so it can be addressed. 
+Safeguarding the community from potential imposters, this rule strongly discourages impersonating a Neox staff member. Members can identify staff by a crown symbol next to their name. Importantly, staff will never ask for personal information, account access, or direct members to external websites. If anyone claims to be a staff member and exhibits suspicious behavior, members are urged to report it immediately.
+
+- Pretending to be a staff member and requesting personal account information.
+- Impersonating staff to persuade members to visit an external website.
+- Using a false staff identity to gain privileges or access to accounts.
+
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 ## 4. <span style="color:#845cad">Item Scamming</span>
 <em>Attempting to gain items/money through the scamming of other Neox members</em>
 
-Scamming items, by our definition, is defined as attempting to acquire items or gold from another player at their own fault by tricking or deceiving them in any fashion; there are known, numerous methods in which players have been taking advantage of other players for quite some time, so we won’t be outlining them here, however the act of deliberately preying on another member’s naivety for one’s own gain by definition of item scamming falls into the category of General Behavior as a whole and as such will not be tolerated.
+Addressing deceptive practices within the community, this rule defines scamming as trying to deceive or trick other players into giving up their items or gold. While specific scam methods are not listed, the rule covers any form of deception aimed at exploiting the naivety of other members. This rule fosters trust and fairness among community members.
+
+- Promising to double a member's in-game currency and then logging out with the funds.
+- Offering a fake item trade with the intention of stealing valuable items.
+- Using misleading language to trick a member into giving away their possessions.
+
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 ## 5. <span style="color:#845cad">Bug Abuse</span>
 <em>Abusing bugs or glitches to gain an advantage over other players</em>
 
-Any attempt at abusing bugs, regardless of the end result, will not be tolerated. As a project that will constantly be under development, pushing new and unique content, there’s bound to be the outlying oddity that may appear! We ask that members who’re clever (or potentially just enigmatic in their luck) enough to discover them to please report them utilizing the appropriate channels, or to inform a member of staff so that they may reach out to our developers and have said bug dealt with appropriately. We’re quite enthusiastic about squishing the little critters in our code!
+Maintaining a level playing field, this rule prohibits any attempts to exploit bugs or glitches, regardless of the outcome. Members are encouraged to report any bugs they discover through appropriate channels. By preventing unfair advantages obtained through unintended game issues, this rule ensures equitable gameplay.
+
+- Repeatedly using a glitch to access restricted areas.
+- Abusing a bug to duplicate in-game items.
+- Exploiting a game flaw to gain any unfair advantage.
+
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 ## 6. <span style="color:#845cad">Gambling</span>
 <em>Flower Poker, Dicing, etc.</em>
 
-Gambling, under any title or loophole, is permitted within Neox. The only point we wish to emphasize regarding participating in said activity is that although it’s sanctioned, it’s to be engaged in at one’s own discretion; by this, we mean that staff intervention will be done only at a very last resort and at their own prerogative, and is not something we will be emphasizing our staff to address. Gambling will be entirely moderated by the community as it sees fit, without staff oversight, so keep this in mind before testing your standing with lady luck against another player.
+Acknowledging the presence of gambling activities within Neox, this rule emphasizes that gambling is entirely self-regulated by the community. Staff intervention in gambling matters will only occur as a last resort and at their discretion. This rule promotes individual responsibility and self-regulation in gambling activities.
+
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 ## 7. <span style="color:#845cad">Macroing and Third Party Software</span>
 <em>Botting, Macros, and Cheating</em>
 
-Botting, as it’s more commonly known as, is strictly prohibited. This can include macros for automating specific server interactions, utilizing automated switching software for leveraging an advantage over another player, or really just any software outside of our game client honed in providing an edge over another player. From a player’s perspective, downloading and attempting to run an outside client is a massive risk to both your own account’s security from a phishing perspective, but will also be flagged from our internal systems and have your account restricted from our perspective.
+Addressing the use of external software that provides unfair advantages, this rule strictly prohibits botting, including macros to automate server interactions. Using external software poses security risks and can result in account restrictions. By enforcing this rule, Neox ensures fair gameplay and protects the integrity of the gaming experience.
+
+- Using a third-party program to automate repetitive in-game actions.
+- Employing software to automatically switch between items for an advantage in combat.
+
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 ## 8. <span style="color:#845cad">Advertising Websites</span>
 <em>Gold Selling, Account Services, etc.</em>
 
-Advertising websites, regardless of their purpose, is strictly forbidden. The only addresses permitted for members to share are branches of the Neox domain. From the player experience, visiting a website someone has advised you to go to can result in a variety of nefarious activities, such as having your IP logged (in an attempt to DDOS your internet connection) or your account details being phished. We ask that members use their own discretion and report anyone making an effort to guide members into visiting outside websites.
+Pertaining to external website promotion, this rule strictly forbids members from advertising external websites, regardless of their purpose. Members are cautioned to exercise caution when following links provided by others to prevent potential scams and malicious activities. This rule safeguards the community from external threats and scams.
+
+- Posting a link to a website offering in-game gold for sale.
+- Promoting a service to increase in-game account statistics through an external website.
+
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 ## 9. <span style="color:#845cad">Blackmail</span>
 <em>Coercing, threatening, or attempting to manipulate members using sensitive information</em>
 
-Blackmail in any form is strictly prohibited within the Neox community. This includes any attempt to coerce, threaten, or manipulate members using sensitive information or personal details to gain an advantage or cause harm. We prioritize the safety and integrity of our community members.
+Prohibiting any form of blackmail within the Neox community, this rule includes attempts to manipulate members using sensitive information, coercion, threats, or manipulation to gain an advantage or cause harm. By enforcing this rule, Neox ensures a secure and respectful environment for all members.
+
+- Threatening to reveal a member's personal information if they don't comply with a request.
+- Attempting to manipulate a fellow member by exploiting their personal vulnerabilities.
+- Coercing another member into giving up valuable in-game items under the threat of harm.
+
+<div class="spacer-medium"></div>
+<div class="divider div-transparent"></div>
+
+## 10. <span style="color:#845cad">Account Services</span>
+<em>Account Upgrade Services</em>
+
+Neox strictly forbids the promotion, advertisement, or engagement in any form of account services within the community. Account services refer to activities where one member offers to access or alter another member's in-game account, including but not limited to leveling, questing, trading, or any other account-related service, whether in exchange for in-game currency, real-world currency, or any other form of compensation.
+
+- Account services, including leveling, questing, or trading on behalf of another member, are strictly prohibited within the Neox community.
+- Members are not allowed to advertise or offer account services to other members, whether for in-game currency, real-world currency, or any form of compensation.
+- Neox values the integrity of the gaming experience and discourages any activities that compromise the security and fairness of members' accounts.
+- Members should report any instances of account services or related activities to the Neox staff to help maintain a secure gaming environment.
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
