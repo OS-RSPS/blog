@@ -10,7 +10,7 @@ recent_updates: true
 <br>
 Hey there, everyone!
 
-Throughout the development period, we'd formulated quite a large checklist for things we'd wanted to make sure were in place before launch. Among all of the big, gatekeepers of the checklist, there laid the little box beside the donator benefits, residing more as an afterthought than the forefront of our focus. As we checked them through, crossing each one out, we brought each of them up a level we believed would be to a satisfactory state for the community to appreciate! What we'd never considered, among them all, was that the support shown by everyone since we'd first flicked that on switch would be as insanely overwhelming as it's been, and that small consideration <b>should</b> have been anything but.
+Throughout the development period, we'd formulated quite a large checklist for things we'd wanted to make sure were in place before launch. Among all of the big, gatekeepers of the checklist, there laid the little box beside the donator benefits, residing more as an afterthought than the forefront of our focus. As we checked them through, crossing each one out, we brought each of them up a to level we believed would be of a satisfactory state for the community to appreciate! What we'd never considered, among them all, was that the support shown by everyone since we'd first flicked that on switch would be as insanely overwhelming as it's been, and that small consideration <b>should</b> have been anything but.
 
 Neoxians, and those among you who've been generous enough to donate, following this post the completely reworked and improved donation benefits outlined within the below graphic will be implemented into the server.
 
