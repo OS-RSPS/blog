@@ -21,7 +21,7 @@ Neoxians, and those among you who've been generous enough to donate, following t
 
 It took a lot of deliberation within the team to conceptualize a set of benefits that would both be intriguing and a respectable reflection to the different tiers, but not in a way that would heinously skew the balance of the game or make it outright unrealistically playable for those who show their support in other ways! By design, the credit values marked on each tier are the entry threshold for the role; by this, we mean that it's the required amount of credits for an account to "claim" before being being automatically upgraded into that tier, not the amount <em>purchased</em>. Members will be able to trade Neox Credits amongst one another until the first pitstop where they're claimed, and only then are they consumed and applied to the account both as a spendable currency, and as a step towards the next tier.
 
-Tomorrow, we'll create an official Knowledge Base entry that will display these tiers in a slightly more digestible fashion for those who prefer a more literal listing. Until then, thanks for playing, and for being <em>you</em>
+Tomorrow, we'll create an official Knowledge Base entry that will display these tiers in a slightly more digestible fashion for those who prefer a more literal listing. Until then, thanks for playing, and for being <em>you</em>!
 
 <em>Neox Staff<br>
 
