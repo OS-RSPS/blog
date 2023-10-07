@@ -99,7 +99,7 @@ Maintaining a level playing field, this rule prohibits any attempts to exploit b
 ## 6. <span style="color:#845cad">Gambling</span>
 <em>Flower Poker, Dicing, etc.</em>
 
-Acknowledging the presence of gambling activities within Neox, this rule emphasizes that gambling is entirely self-regulated by the community. Staff intervention in gambling matters will only occur as a last resort and at their discretion. This rule promotes individual responsibility and self-regulation in gambling activities.
+Currently, player run gambling is prohibited within the Neox community. This includes flower poker, dicing, and other various forms of player:player gambling interaction. Gambling is managed by several automated systems and members who wish to partake are encouraged to use those.
 
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
