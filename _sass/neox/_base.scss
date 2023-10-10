@@ -501,6 +501,10 @@
   border:none !important;
 }
 
+.spacer-tiny {
+  padding: 0px;
+}
+
 .spacer-small {
   padding: 5px;
 }
@@ -548,3 +552,37 @@ details > summary::-webkit-details-marker {
 	height: 1px;
 	background-image: linear-gradient(to right, transparent, #885eac47, transparent);
 }
+
+//List Dropdown CSS
+
+details > summary:first-of-type {
+  display: list-item;
+  counter-increment: list-item 0;
+  list-style: inside disclosure-closed;
+}
+
+details[open] > summary:first-of-type {
+  list-style-type: disclosure-open;
+}
+
+details>summary {
+  list-style: list;
+}
+
+details summary {
+  cursor: pointer;
+}
+
+.dropdown-body {
+  border-color: #1b1d25 !important;
+  border-left: 10px solid #ccc;
+  opacity: 0.9;
+  border-top: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 1em;
+}
+
+
