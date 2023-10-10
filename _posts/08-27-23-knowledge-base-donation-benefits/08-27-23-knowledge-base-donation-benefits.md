@@ -488,3 +488,28 @@ This Knowledge Base page will outline the currently available donation perks and
 <nobr><font color="#f3ae59">NPC Makes Unfinished Potion:</font> Free</nobr><div class="spacer-tiny"></div> 
 </div>
 </details>
+
+<div class="spacer-medium"></div>
+<div class="divider div-transparent"></div>
+
+<div class="spacer-large"></div>
+<div class="changes-body">
+    <div class="changes-body changes-row articletitle">
+        <div class="changes-row-header">
+            <span class="icon">
+                <span class="material-symbols-outlined">dns</span>
+            </span>
+            <h3>Neox Donation Benefits | F.A.Q</h3>
+        </div>
+    </div>
+</div>
+
+<div class="spacer-small"></div>
+><div class="command-title">How do the credit values work?</div>
+>>Credit values set for each donation tier are for credits that have been "claimed" by an account. Credits are a consumable item within Neox.
+<div class="spacer-small"></div>
+><div class="command-title">Am I able to transfer donation ranks to different accounts?</div>
+>>No, donation ranks may not be transferred between accounts.
+<div class="spacer-small"></div>
+><div class="command-title">Can I purchase credits on one account and transfer them to another?</div>
+>>Yes, Neox Credits are both tradable and may additionally be "used" on another player to effectively transfer them.
