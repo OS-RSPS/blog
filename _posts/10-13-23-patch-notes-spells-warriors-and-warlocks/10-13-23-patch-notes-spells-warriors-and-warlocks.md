@@ -194,6 +194,7 @@ Alongside this extensive spellbook, we've also introduced a ton of new content t
 - Fixed the Ornate granite maul special attack not being instant.
 - Eniola, the banker at the Ourania altar, now has a Presets option.
 - Elite void equipment now correctly only requires 42 defence, rather than 50.
+- Fixed an issue causing certain Chambers of Xeric tasks and the Solo time competition to not update correctly.
 
 <div class="spacer-medium"></div>
 <div class="changes-body">
