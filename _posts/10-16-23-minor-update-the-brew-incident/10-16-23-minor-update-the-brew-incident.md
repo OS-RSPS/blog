@@ -1,0 +1,35 @@
+---
+title: 10/16/23 | Minor Update - The Brew Incident
+date: 2023-10-03
+tags: [blog, minor update]
+description: Minor update from 10/03/23.
+recent_updates: true
+---
+
+***
+<br>
+Hey there, everyone!
+
+Buckle in, because this one's going to be a long one.
+
+The first thing we'd wanted to address was what had happened a little earlier in the day, something someone ever so cleverly referred to as "The Brew Incident", and so we're naming this very update as an homage. As I'm sure the majority of you are aware, both Saradomin Brews and Sharks have been added into the Misc Shops with consideration for an easier rate of accessibility. Before we get too into the nitty and gritty details of the <em>why</em>, let's take a moment and talk about something else...
+
+When we'd first started this project, we'd cemented an identity amidst a very niche community (that being the closed beta group), of a stringent design model in which members would be required to invest quite a bit of time building upon their account, grinding through activities, and slowly creating the Neox world. With the smaller sample size of what might arguably be baseline cultivated interest, there was grand reception with quite a few decisions and avenues. In our minds, this formula and model would inevitably grow into the greater picture that would encompass the very identity of our server and the mass appeal would be there. Well, unfortunately, we were wrong. 
+
+Through trial and error and general reception, the appeal was undeniably there. Neox, fundamentally, is an incredible server with an incredible community. The identity, as mentioned, is a solid one, and the people who come by to play it each day are passionate and invested. We couldn't have asked for a better outcome in that regard. The problem lies with the unaddressed pain points. Where we'd originally assumed mass appeal would be evident simply due to general reception at the very conception of the project, the analytical backside regarding numerous retention statistics made it evidently clear that what we were doing wasn't something the majority of people who stopped by to play had an interest in remaining a part of. There was numerous discussions had on this matter within the community (both passively amidst its members and housed/addressed by members of staff), discussions held within the staff team of whom its members are vastly composed of the original staging team, and within the upper management itself. Something needed to change. One of the biggest points of contention was the accessibility of content within a reasonable fashion that coaligns with the base identity, or in other words: how do we make adjustments that would help those people leaving feel like they can get to the places they want to be a little easier? Unfortunately, there is no easy answer. It's tough to subjectively take a step back from something you're proud of and happy with and wonder why there's so many people that aren't enjoying it. Our first step? Well, now let's get to talking about the brew incident.
+
+For those unaware, as mentioned in the very first paragraph, Saradomin Brews and Sharks were introduced as items that can be purchased through the shop. This decision is not something we'd made lightly, but there's a firm reasoning behind it. From the majority points of feedback, one of the current largest pain points within the server that's causing the most impact on player retention is the accessibility of items and content. I know, hard to imagine, but in this day and age the type of person who invests themselves to the same degree a lot of you have are an extreme rarity. You're essentially unicorns (and equally as beautiful). We'd weighed numerous possibilities for an effective means of creating an influx of items and accessibility routes to cater to a more casual preference, some significantly more drastic than introducing potions and food to a shop, but this is where we fell. Yes, it stings. Yes, it seems like we're disrespecting or disregarding those who've been investing the time to earn them organically and wanted to let the economy blossom in a more organic matter, but that's not our intention. Major design choices will very likely cause a rift in those who support them and those who do not, and as such... are fundamentally a precarious topic that generates a rift: those in favor, and those against. 
+
+For those against, it's the people who want to emphasize the natural, organic expansion and growth of the server in a way where, true to its roots, it's a marathon before there's mass appeal garnered and the expedited content access is essentially moot. One where through natural means of a heavy investment in time and effort to truly gain a foothold within the server, only then is a player able to experience "all" that the project has to offer. On paper, this is what we'd wanted. In practicality, there's tough truths that can't be overlooked. The problems with unicorns is there's only so few of them, and when you're trying to grow something, it's hard to reach out and attract the few who might not otherwise already be invested elsewhere. It's a precarious line to toe, but we want to softly bring in people who might be a little more apprehensive about what we have to offer when they're met with the daunting reality in that we're still an overly new community and those items and experiences are still very much a way's away; enter, compromise: the word of the day. 
+
+The unfortunate reality of it all is that if we were able to somehow capture the state of the server several months from now, as we'd hobbled along towards it, when there's been an influx of those very items the majority would prefer an eased sense of access to, and when the content they'd prefer to do as opposed to investing the vast amounts of time it currently takes would be significantly easier to become involved with, and use that version for today? None of these problems would exist. All parties would be content with how they're being equally accommodated and how all different approaches can be comfortably met. But for now? We need to try and find a compromise. Introducing those items simply expedites a little bit of that interim grind and in a way that doesn't entirely devalue the investment. For those who enjoy farming? There's still very much incentive to do so and a return to be found. For those who enjoy fishing and trying to run a stranglehold on the available market? There's still many items that will be in higher demand above them. We didn't want to take away the experience and reward of investing your time and efforts, the original goal was to generate a compromise that will allow players who wish for a little easier access into the later portions of the game an easier route to do so.
+
+Now, with that out of the way, let's talk about the future.
+
+
+
+
+<em>Neox Staff<br>
+
+<div class="spacer-medium"></div>
+<center><a href="https://discord.com/invite/neoxps"><img src="/assets/img/JoinDiscord.png"></a></center>
