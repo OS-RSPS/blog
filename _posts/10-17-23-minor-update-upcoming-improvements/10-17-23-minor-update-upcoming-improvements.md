@@ -20,7 +20,7 @@ With recent community feedback, the skills we need to look at next have been mad
 <div class="divider div-transparent"></div>
 <img src="/assets/img/updates/101723/herb.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Herblore: Our goal with herblore is super simple: we wish to alleviate the current concern for and stringency of high-demand herblore secondaries.
 
-<img src="/assets/img/updates/101723/farm.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Farming: With farming, we have several goals in mind: we'd like to introduce changes with the intent of reducing overall farm run times (such as the potential increase of harvesting speed), and we'd like to increase the yield for items that are used as secondary ingredients for portions (such as berries, limpwurt roots, etc).
+<img src="/assets/img/updates/101723/farm.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Farming: With farming, we have several goals in mind: we'd like to introduce changes with the intent of reducing overall farm run times (such as the potential increase of harvesting speed), and we'd like to increase the yield for items that are used as secondary ingredients for potions (such as berries, limpwurt roots, etc).
 
 <img src="/assets/img/updates/101723/rune.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Runecrafting: Like farming, there's several pain points we're going to be looking when it comes to runecrafting: making low level talismans more easily accessible, reworking the acquisition method for pouches, improve the pouch usability (such as removing the delay, and automatically using the essence within the pouches), and significantly increase the rune output.
 
