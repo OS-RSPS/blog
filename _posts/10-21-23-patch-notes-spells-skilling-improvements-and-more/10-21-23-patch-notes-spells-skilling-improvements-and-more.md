@@ -148,7 +148,7 @@ With the introduction of a new shop through the Mage of Zamorak, we're adding a 
 <center><img src="/assets/img/updates/102123/runeshop.png"></center>
 <center><em><font size="1">Talismans can be bought now? Rejoice!</font></em></center>
 
-Previously, the pouch system wasn't the most ideal. You'd have to grind away at the abyss creatures until you'd slowly worked your way through the milestone drops... one at a time, kind of like with defenders but moderately less rewarding. Now, members will be able to purchase an improved essence pouch that will scale with their runecrafting level (2 essence per level), and will allow for a base holding of 5. Additionally, having a runecrafting skillcape equipped will add an extra 10 capacity to the pouch.
+Previously, the pouch system wasn't the most ideal. You'd have to grind away at the abyss creatures until you'd slowly worked your way through the milestone drops... one at a time, kind of like with defenders but moderately less rewarding. Now, members will be able to purchase an improved essence pouch that will scale with their runecrafting level (1 essence per 2 levels), and will allow for a base holding of 5. Additionally, having a runecrafting skillcape equipped will add an extra 10 capacity to the pouch.
 
 <center><img src="/assets/img/updates/102123/pouchstore.png"> &nbsp; &nbsp; <img src="/assets/img/updates/102123/pouchinv.png"></center>
 <center><em><font size="1">We've also introduced a new plugin to work with the new pouches! Now you'll always know how many you have.</font></em></center>
