@@ -110,7 +110,7 @@ What better a way to weave in a little bit of the Neox identity besides incorpor
 
 Integrating the resource bag to alleviate a little of the burden is one thing, but what about the overall strength and feel of the skill? Well, thanks to quite a bit of community feedback, we'd landed on the following baseline improvements to the foundational rates and values:
 
->Produce is now harvested 25% faster from the original base speed.
+>Produce is now harvested 50% faster from the original base speed.
 <div class="spacer-small"></div>
 >The 2x yield multiplier for herb patches now also applies to flower patches, with the exception of white lily crops as they do not use the lives mechanic.
 <div class="spacer-small"></div>
