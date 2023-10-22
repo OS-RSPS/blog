@@ -344,7 +344,7 @@ As a whole, there's been quite a few adjustments made across the board regarding
 - Fixed a bug causing blighted vengeance sacks to not function correctly.
 - Fixed the 'Cook 100 Lobsters' task only requiring 50 lobsters to be completed, rather than 100.
 - Fixed a typo in the Brimstone key's drop description.
-- Fixed a bug causing Teleblock effects to be cleared when existing from an instanced Wilderness area to the non-instanced Wilderness.
+- Fixed a bug causing Teleblock effects to be cleared when exiting from an instanced Wilderness area to the non-instanced Wilderness.
 
 <div class="spacer-medium"></div>
 <div class="changes-body">
