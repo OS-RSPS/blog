@@ -12,7 +12,7 @@ recent_updates: true
 ***
 <em>Hey there, everyone!</em>
 
-<em>As we'd been ever not-so-subtly hinted towards, today's large patch focus will be on skilling improvements to Herblore, Farming, and Runecrafting as a whole. Adjustments to a ton of their internal functions, alongside introducing outside elements, should help to alleviate and improve upon the otherwise fairly arduous, daunting process of having to level through these skills.</em> 
+<em>As we'd been ever not-so-subtly hinting towards, today's large patch focus will be on skilling improvements to Herblore, Farming, and Runecrafting as a whole. Adjustments to a ton of their internal functions, alongside introducing outside elements, should help to alleviate and improve upon the otherwise fairly arduous, daunting process of having to level through these skills.</em> 
 
 <em>We're hoping that by not only improving upon the experience of these skills making them significantly more approachable to members, it's an inherent way of addressing numerous community concerns and pain points regarding economic improvements. Throughout these patch notes, we'll be outlining the adjustments made to each of these three skills, alongside the other improvements that're being introduced. As always, for a more thorough breakdown of everything coming this patch, please head towards the bottom of the page for an indepth patch summary.
 
@@ -28,11 +28,11 @@ recent_updates: true
 ***
 
 <h1 style="color:#885eac;">Herblore</h1>
-Herblore... definitely had some pain points. Community feedback had made it clear that the original stringent design on acquiring secondaries felt limited, so a major focus when addressing those concerns was ways to both organically alleviate the strain, but also to build upon the identity of the skill and introduce some new, unique venues for members to venture through when looking to level it up. With these in mind, we've introduced a handful of quality of life improvements and a few new methods for secondary acquisition!
+Herblore... definitely has some pain points. Community feedback had made it clear that the original stringent design on acquiring secondaries felt limited and perhaps a bit too restrictive, so a major focus when addressing those concerns were ways to both organically alleviate the strain, but also to build upon the identity of the skill and introduce some new, unique venues for members to venture through when looking to level it up. With these in mind, we've introduced a handful of quality of life improvements and a few new methods for secondary acquisition!
 
 ### <img src="/assets/img/updates/102123/herb.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Alchemist Chest and Keys
 
-A newly introduced method for gaining secondaries, the Alchemist Chest can be located within Jatix's store and requires a key to be opened (which will be consumed when used). This chest has 2 loot tables, one containing seeds for crops that are useful for Herblore, and the other contains a variety of Herblore secondary ingredients. Opening the chest will reward you with a roll on each table, and will utilize the loot interface for easy banking.
+A newly introduced method for gaining secondaries, the Alchemist Chest, can be located within Jatix's store and requires a key to be opened (which will be consumed when used). This chest has 2 loot tables: one containing seeds for crops that are useful for Herblore, and the other contains a variety of Herblore secondary ingredients. Opening the chest will reward you with a roll on each table, and will utilize the loot interface for easy banking.
 
 <div class="spacer-medium"></div>
 <center><img src="/assets/img/updates/102123/alchchest.png"> &nbsp; &nbsp; <img src="/assets/img/updates/102123/taverley.png"></center>
@@ -50,7 +50,7 @@ Alongside the addition of this chest and key, 7 new tasks have been introduced t
 
 ### <img src="/assets/img/updates/102123/herb.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Item Modifications
 
-Along with the introduction of the new chest, several items have been modified in a way that should drastically improve upon both their accessibility, ease of collection, and overall influence within the game. For ease of collection, the following items are now stackable: Unicorn Horn Dust, Red Spiders' Eggs, Chocolate Dust, Dragon Scale Dust, Crushed Bird Nests, and Crushed Superior Dragon Bones.
+Along with the introduction of the new chest, several items have been modified in a way that should drastically improve upon both their accessibility, ease of collection, and overall influence within the game. For ease of collection and storage, the following items are now stackable: Unicorn Horn Dust, Red Spiders' Eggs, Chocolate Dust, Dragon Scale Dust, Crushed Bird Nests, and Crushed Superior Dragon Bones.
 
 <center><img src="/assets/img/updates/102123/crushstackbefore.png"> &nbsp; &nbsp; <img src="/assets/img/updates/102123/crushstackafter.png"></center>
 <center><em><font size="1">We have so much more room for activities!</font></em></center>
@@ -64,7 +64,7 @@ Additionally, the following ingredients now yield multiple dust per item, rather
 
 ### <img src="/assets/img/updates/102123/herb.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Achievement Rewards
 
-Directly influencing Herblore can provide a ton of immediate results and surface level gameplay, but it wouldn't be a proper Neox level overhaul if we weren't continually building upon the interwoven systems of the game. Alongside the changes mentioned above, we've also expanded upon the achievement completion perks for finishing tasks with the Falador region. Now, members who work their way through the system will receive the following passive benefits for Herblore:
+Directly influencing Herblore can provide a ton of immediate results and direct influence surface level gameplay, but it wouldn't be a proper Neox level overhaul if we weren't continually building upon the interwoven systems of the game. Alongside the changes mentioned above, we've also expanded upon the achievement completion perks for finishing tasks with the Falador region. Now, members who work their way through the system will receive the following passive benefits for Herblore:
 
 ><b><font color="#885eac">Falador Citizen</font></b>
 - 25% chance to receive double nests from trading in mole parts to Wyson the gardener<br>
@@ -84,7 +84,7 @@ Directly influencing Herblore can provide a ton of immediate results and surface
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
-Among these changes, many others have been made, but... we're running a little bit out of room for this section! For a full review of the Herblore changes, please review the patch summary notes at the bottom of the page. We're hoping these highlighted changes, among the others introduced, will truly lend in a beneficial manner to the skilling experience.
+Among these changes, many others have been made, but... we're running a little bit out of room for this section! For a full review of the Herblore changes, please review the patch summary notes at the bottom of the page. We're hoping these highlighted changes, among the others introduced, will truly lend in a beneficial manner to the skilling experience of Herblore.
 
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
@@ -124,7 +124,7 @@ Integrating the resource bag to alleviate a little of the burden is one thing, b
 
 ### <img src="/assets/img/updates/102123/farm.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> New Achievement
 
-A new achievement encompassing farming content is also being introduced with this patch that will provide a ton of benefits for the day-to-day farmer! Completing the tasks required for this achievement will reward members with a handful of perks including increase farming experience gained, increased yield from farming patches, additional harvesting speed increases, and a chance to recover seeds from a patch. More information on this can be found below within the patch summary!
+A new achievement encompassing farming content is also being introduced with this patch that will provide a ton of benefits for the day-to-day farmer! Completing the tasks required for this achievement will reward members with a handful of perks including increase farming experience gained, increased yield from farming patches, additional harvesting speed increases, and a chance to recover seeds from a patch. More information and specifics on this can be found below within the patch summary!
 
 <div class="spacer-medium"></div>
 <center><img src="/assets/img/updates/102123/onewithnature.png"> &nbsp; &nbsp; <img src="/assets/img/updates/102123/onewithnature1.png"></center>
@@ -132,18 +132,18 @@ A new achievement encompassing farming content is also being introduced with thi
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
-When addressing Farming and conceptualizing changes for the skill, we'd wanted to improve upon as many areas of concern without too drastically altering the fundamental identity of the skill. With this changes, our aim was to improve the overall quality of life and drastically increase the rewards for the time invested; by design, this should inherently address several other concerns within the community, such as the availability and price point of specific potions. We'll be carefully monitoring the subsequent effects within the economy and making changes as necessary.
+When addressing Farming and conceptualizing changes for the skill, we'd wanted to improve upon as many areas of concern without too drastically altering the fundamental identity of the skill. With these changes, our aim was to improve the overall quality of life and drastically increase the rewards for the time invested; by design, this should inherently address several other concerns within the community, such as the availability and price point of specific potions. We'll be carefully monitoring the subsequent effects within the economy and making changes as necessary.
 
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
 <h1 style="color:#885eac;">Runecrafting</h1>
 
-Runecrafting, alternatively known as running simulator, is definitely one of the lengthier and less interesting skills to train. With these adjustments, our intent was the improve quite drastically on the yield in an organic way that scales with long-term investment, as well as making the skill infinitely more accessible through introduction of some improved upon mechanics. The runecrafting quality of life improvements are as follows:
+Runecrafting, alternatively known as the running simulator skill, is definitely one of the lengthier and less interesting skills to train. With these adjustments, our intent was the improve quite drastically on the yield in an organic way that scales with long-term investment, as well as making the skill infinitely more accessible through introduction of some improved upon mechanics. The runecrafting quality of life improvements are as follows:
 
 ### <img src="/assets/img/updates/102123/runecraft.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> New Shop and Pouch
 
-With the introduction of a new shop through the Mage of Zamorak, we're adding a significantly more streamlined access to back runes and all types of talismans. The plight of skiller inaccessibility and hardship for talismans has come to an end! Alternatively, this should provide a much needed boost in early game magic accessibility.
+With the introduction of a new shop through the Mage of Zamorak, we're adding a significantly more streamlined access to basic runes and all types of talismans. The plight of skiller inaccessibility and hardship for talismans has come to an end! Alternatively, this should provide a much needed boost in early game magic accessibility.
 
 <center><img src="/assets/img/updates/102123/runeshop.png"></center>
 <center><em><font size="1">Talismans can be bought now? Rejoice!</font></em></center>
@@ -157,9 +157,9 @@ Previously, the pouch system wasn't the most ideal. You'd have to grind away at 
 
 ### <img src="/assets/img/updates/102123/runecraft.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Runecrafting Multipliers
 
-Now, we're going to get a little bit mathy. If you've got glasses by the wayside, it would absolutely be time to put them on! Within this patch, runecrafting multipliers have been absolutely overhauled. Now, rather than each rune type having specific breakpoints, they'll have a set multiplier at level 99, and levels below and above that scale linearly as you level up beyond the base level required to craft the rune; for example, Death runes require 65 runecrafting to craft, and will now have a multiplier of 3x at 99 which mean - math time - that for every level above 65, you will receive ~5.8% more runes from each essence. So, at level 85, you will receive 116% more death runes per essence, which translates to 2 runes per essence and an additional 16% chance at a third
+Now, we're going to get a little bit mathy. If you've got glasses by the wayside, it would absolutely be time to put them on! Within this patch, runecrafting multipliers have been absolutely overhauled. Now, rather than each rune type having specific breakpoints, they'll have a set multiplier at level 99, and levels below and above that scale linearly as you level up beyond the base level required to craft the rune; for example, Death runes require 65 runecrafting to craft, and will now have a multiplier of 3x at 99 which means - math time - that for every level above 65, you will receive ~5.8% more runes from each essence. So, at level 85, you will receive 116% more death runes per essence, which translates to 2 runes per essence and an additional 16% chance at a third
 
-Sorry, that was a lot, we know. In easier terms, the new math makes it so that the higher your level above the required to make the rune, the more runes you're going to get. This change, paired with being able to now carry more runes to the altar, means you're going to level up significantly quicker and make significantly more runes whilst you're doing so.
+Sorry, that was a lot, we know. In easier terms, the new formula makes it so that the higher your level above the required to make the rune, the more runes you're going to get. This change, paired with being able to now carry more runes to the altar, means you're going to level up significantly quicker and make significantly more runes whilst you're doing so.
 
 <div class="spacer-medium"></div>
 <center><video autoplay loop muted><source src="/assets/img/updates/102123/natcraft.mp4" type="video/mp4"></video></center>
