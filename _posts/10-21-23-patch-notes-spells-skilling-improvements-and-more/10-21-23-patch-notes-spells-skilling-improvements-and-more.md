@@ -153,7 +153,7 @@ Previously, the pouch system wasn't the most ideal. You'd have to grind away at 
 <center><img src="/assets/img/updates/102123/pouchstore.png"> &nbsp; &nbsp; <img src="/assets/img/updates/102123/pouchinv.png"></center>
 <center><em><font size="1">We've also introduced a new plugin to work with the new pouches! Now you'll always know how many you have.</font></em></center>
 
->With level 1 Runecrafting, a member will be able to hold an additional 15 essence within this pouch; at level 99 Runecrafting and with the skillcape equipped, a member will be able to hold an additional 74 essence!
+>With level 1 Runecrafting and without the completed achievement, a member will be able to hold an additional 5 essence within this pouch; at level 99 Runecrafting, with the complete achievement, and with the skillcape equipped, a member will be able to hold an additional 74 essence!
 
 ### <img src="/assets/img/updates/102123/runecraft.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Runecrafting Multipliers
 
