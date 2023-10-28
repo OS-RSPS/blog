@@ -29,7 +29,7 @@ recent_updates: true
 
 <h1 style="color:#f07d00;">Halloween Event</h1>
 
-Once a serene and cozy hub, the Neox island has undergone a mysterious, thrilling, and spooky transformation! Gone are the gentle sunsets and soothing waves, replaced by eerie fog, pumpkins of all shapes and sizes, and peculiar creatures lurking about! It's as though the very island, in spirit of the season, has adorned a costume. With prizes to be earned, secrets to be found, and an ever looming threat to be banished, the official Halloween event has begun! From the date of this post, up until the 6th of October, members will be able to venture forth and partake in the peculiar, the dangerous, and the intriguing!
+Once a serene and cozy hub, the Neox island has undergone a mysterious, thrilling, and spooky transformation! Gone are the gentle sunsets and soothing waves, replaced by eerie fog, pumpkins of all shapes and sizes, and peculiar creatures lurking about! It's as though the very island, in spirit of the season, has adorned a costume. With prizes to be earned, secrets to be found, and an ever looming threat to be banished, the official Halloween event has begun! From the date of this post, up until the 6th of November, members will be able to venture forth and partake in the peculiar, the dangerous, and the intriguing!
 
 
 ### <img src="/assets/img/updates/102723/hallicon.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Spooky Island
