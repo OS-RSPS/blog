@@ -23,6 +23,7 @@ recent_updates: true
 ***
 <div class="spacer-medium"></div>
 <center><iframe width="739" height="416" src="https://www.youtube.com/embed/LTrd4dxMYNk?si=R3B7ebsFVW4Ew-ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><em><font size="1">A big thanks to Reeke for helping to create such a spooky video!</font></em></center>
 <div class="spacer-medium"></div>
 ***
 
