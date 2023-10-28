@@ -1,8 +1,8 @@
 ---
-title: 10/27/23 | Patch Notes - A Neox Halloween
-date: 2023-10-27
+title: 10/28/23 | Patch Notes - A Neox Halloween
+date: 2023-10-28
 tags: [patch-notes, halloween, tournament, dynamite, falconry]
-description: Neox updates from 10/27/23.
+description: Neox updates from 10/28/23.
 recent_updates: true
 ---
 
