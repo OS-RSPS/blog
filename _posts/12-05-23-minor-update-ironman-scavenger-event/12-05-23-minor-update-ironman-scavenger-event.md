@@ -50,8 +50,11 @@ Firstly, this event will require the registration of a new accounts; pre-existin
 
 Once your account has been created, head on over the docks at home and look for the rather nefarious Scavenger Ghrim, for he's the head of this particular hunt! Speaking with him and confirming you wish to be a part of the event will unlock a new additional to your Collection Log that will outline the required items to complete his challenge and be rewarded in turn!
 
+
+
 <div class="spacer-medium"></div>
 <center><img src="/assets/img/updates/120523/collectionlog.png"></center>
+> Members will have 1 week from this post to find all the items and complete this event, or until roughly 12/13/23, 3:00am UTC!
 <div class="spacer-medium"></div>
 <div class="divider div-transparent"></div>
 
