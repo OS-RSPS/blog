@@ -231,7 +231,14 @@ Corporeal Beast Changes
 </div>
 <div class="spacer-small"></div>
 
-- Nothing was fixed this patch! The new one will include a whole bunch of bug fixes, however.
+- Runes crafted at the Ourania altar now counts towards Runecrafting daily/weekly/monthly challenges.
+- The Muddy chest located at the center of the Lava Maze can now be looted with a Muddy key.
+- Fixed a bug allowing you to complete the 'Reach level 99 in all skills' monthly challenge with one less level than intended.
+- Adjusted the timings and delays for many Agility course obstacles.
+- Fixed the spelling of Pollnivneach in the Agility course portal dialogue.
+- Fixed the 'Harvest a White lily' task not completing correctly.
+- Fixed the Abyssal dagger (bh)'s special attack second hit doing 15% reduced damage rather than only 5%.
+- Fixed an issue where experience mode XP multipliers were not applied to the Dark relic from CoX.
 
 <div class="spacer-medium"></div>
 <div class="changes-body">
