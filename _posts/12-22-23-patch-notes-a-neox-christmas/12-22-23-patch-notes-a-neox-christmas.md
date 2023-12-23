@@ -24,7 +24,7 @@ recent_updates: true
 
 <h1 style="color:#e81d37;">Neox Christmas</h1>
 
-What would Christmas be without a little snow, some festive decorations, and a familiar figure in dire need of wrapping paper? Within this update, members will be able to explore through the new home, just as Santa's elves have decorated it, and partake in a new seasonal event to help Santa meet his quota and unlock some unique cosmetics while they're at it! In this section, we'll go over some of the home changes, as well as outline the seasonal event for out very first Christmas as a community!
+What would Christmas be without a little snow, some festive decorations, and a familiar figure in dire need of wrapping paper? Within this update, members will be able to explore through the new home, just as Santa's elves have decorated it, and partake in a new seasonal event to help Santa meet his quota and unlock some unique cosmetics while they're at it! In this section, we'll go over some of the home changes, as well as outline the seasonal event for our very first Christmas as a community!
 
 ### <img src="/assets/img/updates/122223/christmasicon.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Christmas Island
 
