@@ -45,7 +45,7 @@ Progression with Phantom Muspah has been steadily coming along and we are very q
 
 <h3 style="color:#af8fcb;"> <img src="/assets/img/updates/020624/prif.png" style="vertical-align:middle;position:relative;right:-1px;bottom:2px"> Prifddinas</h3>
 
-Prifddinas has been one massive undertaking and we're proud to say its slowly closing to a draw. As per the last updates within the roadmap, we're just applying the finishing touches on the access quest for this content, then we'll be doing a regional pass-over (a lot of this content was actually added by the junior development team ahead of time, so we just need to quality check it), and then we'll be pushing it to the live beta for some exceptionally thorough testing. As mentioned before, once this specific area of content becomes available, we be opening our beta servers for applications, but more information on that to come!
+Prifddinas has been one massive undertaking and we're proud to say its slowly closing to a draw. As per the last updates within the roadmap, we're just applying the finishing touches on the access quest for this content, then we'll be doing a regional pass-over (a lot of this content was actually added by the junior development team ahead of time, so we just need to quality check it), and then we'll be pushing it to the live beta for some exceptionally thorough testing. As mentioned before, once this specific area of content becomes available, we'll be opening our beta servers for applications, but more information on that to come!
 
 <h3 style="color:#af8fcb;"> <img src="/assets/img/updates/020624/dt2.png" style="vertical-align:middle;position:relative;right:-1px;bottom:2px"> Upcoming Content</h3>
 
@@ -81,7 +81,7 @@ As in their namesake, D&Ds serve as alternative activity means for members both 
 - We'll be introducing a unified reward currency and store for D&D participation. Members who meet a specific threshold within the particular activity will receive a credit for said store (saved in the same fashion as the loyalty shop), which they'll then be able to spend towards reward unlocks.
   - The contents of this shop, however, are still something we're actively discussing and will likely bring up within the community for further input.
 <div class="spacer-small"></div>
-- We're going to look to introduce several new activities to the D&Ds, aiming to cover different skills! There's been some really interesting ideas shared within the community that we might just look to explore into the possibility of adding.
+- We're going to look to introduce several new activities to the D&Ds, aiming to cover different skills! There've been some really interesting ideas shared within the community that we might just look to explore into the possibility of adding.
 <div class="spacer-small"></div>
 - We'd had several requests for members to be able to initiate their own D&Ds, and so a system for this is something we'll be looking into implementing. We're under the impression, however, that it's going to be quite difficult to find a good balance for this... especially with all of the upcoming changes to the D&Ds as a whole.
 <div class="spacer-small"></div>
