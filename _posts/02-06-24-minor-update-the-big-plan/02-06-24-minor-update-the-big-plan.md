@@ -74,7 +74,7 @@ For some, the collection log is akin to the most valuable means of tracking acco
 - We're going to be removing unobtainable items from the collection log and improving the visibility of completable logs.
 <div class="spacer-medium"></div>
 
-<h3 style="color:#9ec6e1;"> <img src="/assets/img/updates/020624/gear.png" style="vertical-align:middle;position:relative;right:-1px;bottom:2px"> D&Ds | Distractions and Deviations</h3>
+<h3 style="color:#9ec6e1;"> <img src="/assets/img/updates/020624/gear.png" style="vertical-align:middle;position:relative;right:-1px;bottom:2px"> D&Ds | Distractions and Diversions</h3>
 
 As in their namesake, D&Ds serve as alternative activity means for members both to streamline specific gear acquisition and to alleviate the monotonous feeling of lengthy activity engagement. When we'd first introduced this system, there was always plans on how we'd intended to expand and improve on it! The following points will outline what changes to expect:
 
