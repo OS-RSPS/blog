@@ -25,7 +25,7 @@ The Phantom Muspah is a multiphase boss that will challenge its opposers with a 
 <center><em><font size="1">A big thanks to Keiron for being our video star! He died at the end.</font></em></center>
 <div class="spacer-medium"></div>
 
-Alongside the introduction of the boss itself, we've also brought in its respective drop table, introducing means for members to create the <a href="https://oldschool.runescape.wiki/w/Venator_bow#Charged">Venator Bow</a>, as well as the <a href="https://oldschool.runescape.wiki/w/Saturated_heart">Saturated Heart</a>! The boss will also include 17 new tasks related to the Phantom Muspah, a new achievement ("The Phantom") and corresponding title, and a hidden title that's unlocked in an exceptionally amusing fashion.
+Alongside the introduction of the boss itself, we've also brought in its respective drop table, introducing means for members to create the <a href="https://oldschool.runescape.wiki/w/Venator_bow#Charged">Venator Bow</a>, the <a href="https://oldschool.runescape.wiki/w/Ancient_sceptre">Ancient Sceptre</a>, and the <a href="https://oldschool.runescape.wiki/w/Saturated_heart">Saturated Heart</a>! The boss will also include 17 new tasks related to the Phantom Muspah, a new achievement ("The Phantom") and corresponding title, and a hidden title that's unlocked in an exceptionally amusing fashion.
 
 For members who find themselves brave enough to take on the challenge, or simply want to poke their heads into the lair of the Muspah and then run away, access to the boss can be found through the home island's teleport either through the search bar, or under the "Bosses" category.
 <div class="spacer-medium"></div>
