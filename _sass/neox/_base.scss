@@ -553,6 +553,12 @@ details > summary::-webkit-details-marker {
 	background-image: linear-gradient(to right, transparent, #885eac47, transparent);
 }
 
+.inner-block {
+  margin-left: 20px;
+  padding-left: 10px;
+  border-left: 1px solid #885fac38;
+}
+
 //List Dropdown CSS
 
 details > summary:first-of-type {
