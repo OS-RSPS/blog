@@ -1,8 +1,8 @@
 ---
-title: 03/07/24 | Patch Notes - Prifddinas
-date: 2024-03-07
+title: 03/08/24 | Patch Notes - Prifddinas
+date: 2024-03-08
 tags: [patch-notes, prifddinas]
-description: Neox updates from 03/07/24.
+description: Neox updates from 03/08/24.
 recent_updates: true
 ---
 
