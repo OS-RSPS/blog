@@ -69,7 +69,7 @@ Botting will still receive a tiered punishment system, however it will be done i
 <br><br>
 <b><font color="#5982d7">Second Offence</font></b><br><br>
 - Your account will be permanently disabled.<br>
-- You are free to make a new account, h4owever the offending account will remain inaccessible.<br>
+- You are free to make a new account, however the offending account will remain inaccessible.<br>
 </div>
 <div class="spacer-medium"></div>
 
