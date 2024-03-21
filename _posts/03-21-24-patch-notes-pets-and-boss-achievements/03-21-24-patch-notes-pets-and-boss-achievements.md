@@ -104,7 +104,7 @@ Each variant of the boss has a separate threshold. This means that Artio kills d
 <div class="spacer-medium"></div>
 <div class="inner-block">
 <h5 style="color:#615c35;"> <img src="/assets/img/updates/032124/herbipet.png" style="vertical-align:middle;position:relative;right:-1px;bottom:2px"> Herbiboar</h5>
-Each variant of the boss has a separate threshold. This means that Artio kills do not improve the chance of obtaining the pet drop from Callisto and vice versa, and the same applies to Calvar'ion/Vet'ion, Spindel/Venenatis and Chaos Fanatic/Chaos Elemental.
+1/3000 chance with a threshold of 300.
 </div>
 
 <div class="spacer-medium"></div>
