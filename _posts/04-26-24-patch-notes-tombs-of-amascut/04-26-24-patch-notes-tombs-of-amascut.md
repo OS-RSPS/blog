@@ -22,7 +22,7 @@ recent_updates: true
 
 <h1 style="color:#990d08;">Tomb of Amascut</h1>
 
-Within the Kharidian Desert (or additionally, ever conveniently accessed by the Neox Portal), lies the tomb of Pharaoh Asmumten! Players who wish to enter will quickly find themselves recruited into assisting the Pharaoh in driving away Amascut from his tomb. Of course this involves all kinds of trials, tribulations, and overly cinematic boss fights... but would would a raid be without 'em? 
+Within the Kharidian Desert (or additionally, ever conveniently accessed by the Neox Portal), lies the tomb of Pharaoh Asmumten! Players who wish to enter will quickly find themselves recruited into assisting the Pharaoh in driving away Amascut from his tomb. Of course this involves all kinds of trials, tribulations, and overly cinematic boss fights... but what would a raid be without 'em? 
 <div class="spacer-medium"></div>
 <center><video autoplay loop muted><source src="/assets/img/updates/042624/toapan.mp4" type="video/mp4"></video></center>
 <center><em><font size="1">So many choices! Where will you start?</font></em></center>
