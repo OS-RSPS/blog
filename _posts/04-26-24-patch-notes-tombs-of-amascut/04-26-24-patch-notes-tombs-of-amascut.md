@@ -168,4 +168,4 @@ In introducing these achievements, 94 new tasks have also been added (not includ
 ***
 
 <div class="spacer-medium"></div>
-<center><a href="https://discord.com/invite/neoxps"><img src="/assets/img/JoinDiscord.png"></a></center>
+<center><a href="https://discord.gg/wte39wtBDB"><img src="/assets/img/JoinDiscord.png"></a></center>
