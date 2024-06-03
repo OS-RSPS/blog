@@ -56,7 +56,7 @@ Since there is no Hard mode, cosmetic kits which would normally be obtained from
 - Verzik's lightning attack (which would normally have to be bounced between players) deals much less damage if a player is wearing insulated boots, so soloing is more viable.
 - In the Nycolas room, there is a special mechanic for killing the Nycolas: if you attack them with the correct style, you will always deal your max hit. If it's a small Nycolas, your attack timer is reset, meaning you can instantly attack another Nycolas.
 <div class="spacer-medium"></div>
-> <img src="/assets/img/updates/060224/modified.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> <strong><font color="#990d08">The reward system has been reworked to include out mercy mechanics.</font></strong><br>
+> <img src="/assets/img/updates/060224/modified.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> <strong><font color="#990d08">The reward system has been reworked to include our mercy mechanics.</font></strong><br>
 This means that there is a bad luck protection system in place, and each player gets their own roll at unique drops.
 <div class="spacer-medium"></div>
 
