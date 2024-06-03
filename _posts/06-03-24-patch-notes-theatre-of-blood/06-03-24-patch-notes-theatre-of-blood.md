@@ -49,12 +49,12 @@ Traditionally, this raid is designed to heavily favor parties of five, as well a
 Since there is no Hard mode, cosmetic kits which would normally be obtained from it have different requirements. To be eligible for a kit drop, you need to meet a certain contribution points criteria (basically participating in every room of the raid), and not die during the raid. If you meet these requirements, you will have a chance to get a kit from the chest at the end.
 - Cosmetic kits might also become available through the donation store (but won't contribute towards collection log slots that way).
 <div class="spacer-medium"></div>
-> <img src="/assets/img/updates/060224/modified.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> <strong><font color="#990d08">Some mechanics have been modified to help smaller sized groups. In OSRS, the balance clearly favors 5-man groups with smaller raids groups being more difficulty, so we've made a handful of changes to counteract that.</font></strong>
+> <img src="/assets/img/updates/060224/modified.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> <strong><font color="#990d08">Some mechanics have been modified to help smaller sized groups. In OSRS, the balance clearly favors 5-man groups with smaller raids groups being more difficult, so we've made a handful of changes to counteract that.</font></strong>
 - Monsters have significantly less hitpoints in smaller groups.
-- In the Nycolas room, the number of waves depends on the party size; for comparison, in OSRS it's always 31 waves.
+- In the Nylocas room, the number of waves depends on the party size; for comparison, in OSRS it's always 31 waves.
 - The path generated for Sotetseg's maze is simplified in solo encounters so it's more viable to memorize it.
 - Verzik's lightning attack (which would normally have to be bounced between players) deals much less damage if a player is wearing insulated boots, so soloing is more viable.
-- In the Nycolas room, there is a special mechanic for killing the Nycolas: if you attack them with the correct style, you will always deal your max hit. If it's a small Nycolas, your attack timer is reset, meaning you can instantly attack another Nycolas.
+- In the Nylocas room, there is a special mechanic for killing the Nylocas: if you attack them with the correct style, you will always deal your max hit. If it's a small Nylocas, your attack timer is reset, meaning you can instantly attack another Nylocas.
 <div class="spacer-medium"></div>
 > <img src="/assets/img/updates/060224/modified.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> <strong><font color="#990d08">The reward system has been reworked to include our mercy mechanics.</font></strong><br>
 This means that there is a bad luck protection system in place, and each player gets their own roll at unique drops.
@@ -147,7 +147,7 @@ Populated with numerous venders, a forge, a bar, and even a candle shop, there's
 
 Additionally, and to the very likely surprise of nobody, we're also introducing a ton of new tasks and achievements to the Darkmeyer area. In total, members can expect 70 new tasks with this update, which will be tied to the Darkmeyer Noble achievement, which will be tied to the Globetrotter achievement, and surely you can guess this next part... <em>which will be tied to the Completionist requirement</em>; in other words, with the introduction of this area, members who've adorned and customized their Completionist capes will no longer have access to them until they catch back up! 
 
->It's also worth noting, at least while we're on the topic, that in our next section we'll be outlining the Darkmeyer Disturbance miniquest, which will become a requirement for the Neox Hero achievement, which also makes it a Completionist requirement. Oh, and the global point requirement for the Completionist achievement has been incresed from 90,000 to 95,000... ehehe.
+>It's also worth noting, at least while we're on the topic, that in our next section we'll be outlining the Darkmeyer Disturbance miniquest, which will become a requirement for the Neox Hero achievement, which also makes it a Completionist requirement. Oh, and the global point requirement for the Completionist achievement has been increased from 90,000 to 95,000... ehehe.
 <div class="spacer-small"></div>
 
 <center><img src="/assets/img/updates/060224/catchingup.png"></center>
