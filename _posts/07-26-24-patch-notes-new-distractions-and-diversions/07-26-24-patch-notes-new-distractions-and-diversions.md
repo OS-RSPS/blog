@@ -154,7 +154,7 @@ Once all of the monsters have been defeated, Duradel will thank you for your ass
 
 ### <img src="/assets/img/updates/072624/eeicon.png" style="vertical-align:middle;position:relative;right:1px;bottom:1px"> Escaped Experiments | Rewards
 
-Killing the various experiments during this event will net players traditional slayer monster drops, including dragon items, consumabled, and voucher points! Additionally, this event has a chance to drop an exceptionally strong, one-time permanent upgrade:
+Killing the various experiments during this event will net players traditional slayer monster drops, including dragon items, consumables, and voucher points! Additionally, this event has a chance to drop an exceptionally strong, one-time permanent upgrade:
 
 ><div class="command-title"><img src="/assets/img/updates/072624/eegem.png"> - <span style="color:#990d08">Experimented Gem</span></div>
 >Can be combined with a Slayer Helmet to increase its damage and accuracy bonuses to 20%; this is a permanent, one-time upgrade.<br>
